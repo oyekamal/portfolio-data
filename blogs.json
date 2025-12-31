@@ -1,0 +1,217 @@
+{
+  "blogs": [
+    {
+      "id": 1,
+      "slug": "django-performance-optimization-tips",
+      "title": "10 Django Performance Optimization Tips for Production",
+      "description": "Learn essential Django performance optimization techniques including database query optimization, caching strategies, and best practices for scaling Django applications in production environments.",
+      "content": {
+        "introduction": "Performance optimization is crucial for Django applications in production. In this comprehensive guide, I'll share 10 proven techniques that helped me reduce API response times by 40% and handle thousands of concurrent users. These strategies are based on real production experience at scale.",
+        "sections": [
+          {
+            "heading": "1. Database Query Optimization",
+            "content": "The most common performance bottleneck in Django applications is inefficient database queries. Use select_related() for foreign key relationships and prefetch_related() for many-to-many relationships to reduce query count. Always check the number of queries with Django Debug Toolbar in development."
+          },
+          {
+            "heading": "2. Implement Redis Caching",
+            "content": "Redis caching can dramatically improve response times. Cache frequently accessed data like user sessions, API responses, and database query results. Use Django's cache framework with Redis backend for optimal performance. Set appropriate cache timeouts based on data volatility."
+          },
+          {
+            "heading": "3. Use Database Indexes Wisely",
+            "content": "Add indexes on fields frequently used in WHERE clauses, JOIN operations, and ORDER BY statements. However, don't over-index as it can slow down write operations. Use PostgreSQL's EXPLAIN ANALYZE to understand query execution plans."
+          },
+          {
+            "heading": "4. Optimize Django Middleware",
+            "content": "Review your middleware stack and remove unnecessary middleware. Order matters - place authentication middleware early to fail fast for unauthorized requests. Consider writing custom lightweight middleware for common operations."
+          },
+          {
+            "heading": "5. Use Celery for Async Tasks",
+            "content": "Move time-consuming operations like email sending, file processing, and external API calls to background tasks using Celery. This keeps your request-response cycle fast and improves user experience significantly."
+          },
+          {
+            "heading": "6. Enable Database Connection Pooling",
+            "content": "Use connection pooling with libraries like django-db-geventpool or pgbouncer to reuse database connections. This reduces the overhead of creating new connections for each request, especially important at scale."
+          },
+          {
+            "heading": "7. Optimize Static Files Delivery",
+            "content": "Use Django's collectstatic and serve static files through a CDN or web server like Nginx. Enable compression and browser caching. Consider using Django Compressor or Whitenoise for better static file handling."
+          },
+          {
+            "heading": "8. Implement API Response Pagination",
+            "content": "Always paginate large querysets in API responses. Use Django REST Framework's pagination classes to limit response sizes. This reduces memory usage and improves response times for list endpoints."
+          },
+          {
+            "heading": "9. Monitor with Prometheus and Grafana",
+            "content": "Set up monitoring to track response times, error rates, and database performance. Use django-prometheus for metrics export. Monitor query execution times and identify slow endpoints proactively."
+          },
+          {
+            "heading": "10. Use Django's select_for_update()",
+            "content": "When handling concurrent updates, use select_for_update() to prevent race conditions. This locks rows at the database level, ensuring data consistency in high-concurrency scenarios like inventory management."
+          }
+        ],
+        "conclusion": "Implementing these 10 optimization techniques can significantly improve your Django application's performance. Start with database query optimization and caching, as they typically provide the biggest gains. Remember to measure before and after each optimization to validate improvements.",
+        "keyTakeaways": [
+          "Use select_related() and prefetch_related() to optimize database queries",
+          "Implement Redis caching for frequently accessed data",
+          "Add database indexes strategically on frequently queried fields",
+          "Move time-consuming tasks to Celery background workers",
+          "Monitor performance with Prometheus and Grafana",
+          "Always paginate large API responses"
+        ]
+      },
+      "excerpt": "Discover proven Django optimization techniques that reduced API latency by 40% in production systems handling thousands of daily active users.",
+      "author": "Muhammad Kamal",
+      "publishDate": "2024-12-15",
+      "lastModified": "2024-12-15",
+      "readTime": "8 min read",
+      "category": "Backend Development",
+      "tags": ["Django", "Python", "Performance", "Optimization", "PostgreSQL", "Redis", "Caching"],
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
+      "featured": true,
+      "views": 0,
+      "seo": {
+        "metaTitle": "10 Django Performance Optimization Tips for Production | Muhammad Kamal",
+        "metaDescription": "Master Django performance optimization with proven techniques for database queries, caching, and scaling. Learn from real production experience.",
+        "keywords": ["django optimization", "django performance", "python django", "database optimization", "redis caching", "django production"],
+        "ogImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
+        "canonicalUrl": "https://oykamal.com/blog/django-performance-optimization-tips"
+      }
+    },
+    {
+      "id": 2,
+      "slug": "zero-downtime-database-migrations",
+      "title": "Zero-Downtime Database Migrations: A Production Guide",
+      "description": "A comprehensive guide to executing zero-downtime PostgreSQL migrations in production. Learn strategies for handling millions of rows while maintaining data integrity and service availability.",
+      "content": "Zero-downtime migrations are critical for production systems. Here's how I executed migrations involving millions of rows without any service interruption...",
+      "excerpt": "Learn battle-tested strategies for executing PostgreSQL migrations on millions of rows without downtime or data loss.",
+      "author": "Muhammad Kamal",
+      "publishDate": "2024-12-01",
+      "lastModified": "2024-12-01",
+      "readTime": "12 min read",
+      "category": "Database",
+      "tags": ["PostgreSQL", "Database Migration", "Zero Downtime", "DevOps", "Production", "Data Integrity"],
+      "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&q=80",
+      "featured": true,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Zero-Downtime Database Migrations Guide | PostgreSQL Production Best Practices",
+        "metaDescription": "Execute PostgreSQL migrations on millions of rows without downtime. Learn production-tested strategies for data integrity and service availability.",
+        "keywords": ["zero downtime migration", "postgresql migration", "database migration", "production database", "data integrity", "devops"],
+        "ogImage": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&q=80",
+        "canonicalUrl": "https://oykamal.com/blog/zero-downtime-database-migrations"
+      }
+    },
+    {
+      "id": 3,
+      "slug": "aws-cicd-pipeline-best-practices",
+      "title": "Building Robust CI/CD Pipelines with AWS and Docker",
+      "description": "Best practices for building reliable CI/CD pipelines using AWS services, Docker, and Git. Learn how to reduce deployment failures and automate your release process.",
+      "content": "In this guide, I'll share how we built a CI/CD pipeline that reduced deployment failures by 30% using AWS, Docker, and automated testing...",
+      "excerpt": "Build reliable CI/CD pipelines with AWS and Docker. Proven practices that reduced deployment failures by 30%.",
+      "author": "Muhammad Kamal",
+      "publishDate": "2024-11-20",
+      "lastModified": "2024-11-20",
+      "readTime": "10 min read",
+      "category": "DevOps",
+      "tags": ["AWS", "CI/CD", "Docker", "DevOps", "Automation", "Deployment", "Git"],
+      "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "AWS CI/CD Pipeline Best Practices with Docker | DevOps Guide",
+        "metaDescription": "Learn to build robust CI/CD pipelines using AWS and Docker. Reduce deployment failures with proven DevOps practices and automation strategies.",
+        "keywords": ["aws cicd", "docker deployment", "cicd pipeline", "aws devops", "continuous integration", "continuous deployment"],
+        "ogImage": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=1200&q=80",
+        "canonicalUrl": "https://oykamal.com/blog/aws-cicd-pipeline-best-practices"
+      }
+    },
+    {
+      "id": 4,
+      "slug": "python-backend-career-guide",
+      "title": "From Junior to Senior: My Python Backend Engineering Journey",
+      "description": "A detailed career guide sharing my journey from junior to senior backend engineer. Learn about essential skills, challenges, and growth strategies in backend development.",
+      "content": "In this post, I share my 4+ year journey in backend engineering, the skills that mattered most, and advice for aspiring backend developers...",
+      "excerpt": "Career insights from a 4+ year journey in backend engineering. Essential skills, challenges, and growth strategies.",
+      "author": "Muhammad Kamal",
+      "publishDate": "2024-11-10",
+      "lastModified": "2024-11-10",
+      "readTime": "7 min read",
+      "category": "Career",
+      "tags": ["Career", "Python", "Backend Development", "Software Engineering", "Career Growth", "Learning"],
+      "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Python Backend Engineer Career Guide | Junior to Senior Journey",
+        "metaDescription": "Career roadmap for Python backend engineers. Learn essential skills and strategies for growing from junior to senior level.",
+        "keywords": ["python backend career", "backend engineer guide", "software engineering career", "python developer", "career growth", "backend development"],
+        "ogImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
+        "canonicalUrl": "https://oykamal.com/blog/python-backend-career-guide"
+      }
+    },
+    {
+      "id": 5,
+      "slug": "kafka-rabbitmq-event-driven-architecture",
+      "title": "Event-Driven Architecture: Kafka vs RabbitMQ in Production",
+      "description": "Compare Kafka and RabbitMQ for event-driven architectures. Learn when to use each, their trade-offs, and real-world implementation patterns from production experience.",
+      "content": "Choosing between Kafka and RabbitMQ can be challenging. Here's my experience implementing both in production systems...",
+      "excerpt": "Kafka vs RabbitMQ: Production comparison, trade-offs, and when to use each for event-driven systems.",
+      "author": "Muhammad Kamal",
+      "publishDate": "2024-10-25",
+      "lastModified": "2024-10-25",
+      "readTime": "9 min read",
+      "category": "System Design",
+      "tags": ["Kafka", "RabbitMQ", "Event-Driven Architecture", "Microservices", "System Design", "Message Queue"],
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Kafka vs RabbitMQ: Event-Driven Architecture Guide | Production Comparison",
+        "metaDescription": "Compare Kafka and RabbitMQ for event-driven systems. Learn trade-offs, use cases, and implementation patterns from production experience.",
+        "keywords": ["kafka vs rabbitmq", "event driven architecture", "message queue", "microservices", "kafka", "rabbitmq", "system design"],
+        "ogImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80",
+        "canonicalUrl": "https://oykamal.com/blog/kafka-rabbitmq-event-driven-architecture"
+      }
+    }
+  ],
+  "categories": [
+    {
+      "name": "Backend Development",
+      "slug": "backend-development",
+      "description": "Deep dives into backend engineering, API design, and scalable systems",
+      "count": 1
+    },
+    {
+      "name": "Database",
+      "slug": "database",
+      "description": "Database optimization, migrations, and best practices",
+      "count": 1
+    },
+    {
+      "name": "DevOps",
+      "slug": "devops",
+      "description": "CI/CD, deployment strategies, and infrastructure automation",
+      "count": 1
+    },
+    {
+      "name": "Career",
+      "slug": "career",
+      "description": "Career advice, growth strategies, and industry insights",
+      "count": 1
+    },
+    {
+      "name": "System Design",
+      "slug": "system-design",
+      "description": "Architecture patterns, scalability, and system design principles",
+      "count": 1
+    }
+  ],
+  "settings": {
+    "postsPerPage": 9,
+    "enableComments": false,
+    "showReadTime": true,
+    "showViews": false,
+    "enableSearch": true,
+    "enableNewsletter": true
+  }
+}

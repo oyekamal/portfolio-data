@@ -1,0 +1,286 @@
+{
+  "personal": {
+    "name": "Muhammad Kamal",
+    "brandName": "oykamal",
+    "title": "Senior Backend Engineer | Python • Django • Scalable Systems",
+    "email": "oyekamalkhan@gmail.com",
+    "phone": "+92 336 0506129",
+    "location": "Islamabad, Pakistan",
+    "bio": "Senior Backend Engineer with 4+ years of experience building and scaling backend systems in production. Specialized in Python, Django/DRF, PostgreSQL, AWS, and event-driven architectures. Strong experience in system design, performance optimization, zero-downtime migrations, and CI/CD. Proven ability to own backend services end-to-end in data-intensive, production-critical environments.",
+    "image": "https://ui-avatars.com/api/?name=Muhammad+Kamal&size=200&background=111827&color=ffffff"
+  },
+
+  "social": [
+    {
+      "platform": "GitHub",
+      "url": "https://github.com/oyekamal",
+      "icon": "github"
+    },
+    {
+      "platform": "LinkedIn",
+      "url": "https://www.linkedin.com/in/oykamal/",
+      "icon": "linkedin"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://instagram.com/oykamal",
+      "icon": "instagram"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://youtube.com/@oykamal",
+      "icon": "youtube"
+    },
+    {
+      "platform": "X (Twitter)",
+      "url": "https://x.com/oykamal",
+      "icon": "twitter"
+    }
+  ],
+
+  "experience": [
+    {
+      "company": "Taleemabad",
+      "position": "Senior Software Engineer (Backend)",
+      "employmentType": "Full-time",
+      "location": "Islamabad, Pakistan",
+      "startDate": "Apr 2024",
+      "endDate": "Present",
+      "responsibilities": [
+        "Owned multiple backend services in production, including deployments, monitoring, incident resolution, and mentoring junior engineers",
+        "Designed and evolved REST APIs and internal services using Python and Django/DRF supporting thousands of daily active users",
+        "Reduced critical API latency by 40% by redesigning PostgreSQL indexes, query plans, and Redis caching strategy",
+        "Executed zero-downtime PostgreSQL migrations involving millions of rows while maintaining data integrity",
+        "Built and maintained CI/CD pipelines using Git, Docker, and AWS, reducing deployment failures by ~30%",
+        "Implemented observability using Prometheus, Grafana, ELK, and CloudWatch to detect and resolve production issues early"
+      ]
+    },
+    {
+      "company": "Central Asian Cellular Forum",
+      "position": "Senior Software Engineer (Backend)",
+      "employmentType": "Contract / Remote",
+      "location": "Remote",
+      "startDate": "Dec 2022",
+      "endDate": "Jan 2025",
+      "responsibilities": [
+        "Independently handled production incidents, bug fixes, and performance issues in a remote contract setup",
+        "Designed and deployed backend APIs using Python, Flask, and MySQL for production systems",
+        "Improved slow-performing endpoints by 80–90% through query optimization and backend refactoring",
+        "Added automated tests and service documentation to improve long-term maintainability"
+      ]
+    },
+    {
+      "company": "Paymob",
+      "position": "Software Engineer",
+      "employmentType": "Full-time",
+      "location": "Remote",
+      "startDate": "Jun 2022",
+      "endDate": "Dec 2022",
+      "responsibilities": [
+        "Built and integrated backend APIs for payment gateway systems interacting with financial institutions",
+        "Contributed to high-availability payment services handling sensitive financial transactions in a regulated environment",
+        "Collaborated with frontend and DevOps teams to deliver production releases using Docker and PostgreSQL"
+      ]
+    },
+    {
+      "company": "Rapidev DMCC",
+      "position": "Python Backend Developer",
+      "employmentType": "Full-time",
+      "location": "Islamabad, Pakistan",
+      "startDate": "Apr 2021",
+      "endDate": "Jul 2022",
+      "responsibilities": [
+        "Developed backend systems using Django REST Framework and PostgreSQL for complex business workflows",
+        "Implemented real-time features using Django Channels and Kafka",
+        "Designed APIs, database schemas, and containerized deployments using Docker",
+        "Worked on search functionality using Elasticsearch for large datasets",
+        "Designed event-driven workflows using Kafka and RabbitMQ, making architectural trade-offs between synchronous APIs and async pipelines based on consistency, latency, and failure modes"
+      ]
+    },
+    {
+      "company": "Metis International Limited",
+      "position": "Python Backend Developer",
+      "employmentType": "Full-time",
+      "location": "Islamabad, Pakistan",
+      "startDate": "Nov 2020",
+      "endDate": "May 2021",
+      "responsibilities": [
+        "Developed backend services using Django and Django REST Framework",
+        "Designed relational database schemas and optimized SQL queries",
+        "Applied OOP principles to build maintainable backend codebases"
+      ]
+    }
+  ],
+
+  "skills": {
+    "Backend": ["Python", "Django", "Django REST Framework", "Flask", "FastAPI"],
+    "Databases": ["PostgreSQL", "Redis", "Elasticsearch"],
+    "Async & Messaging": ["Celery", "Kafka", "RabbitMQ"],
+    "Cloud & DevOps": ["AWS", "Docker", "Terraform", "CI/CD"],
+    "Observability": ["Prometheus", "Grafana", "ELK Stack"],
+    "Engineering Practices": ["System Design", "Performance Optimization", "Zero-Downtime Migrations", "Production Ownership"]
+  },
+
+  "projects": [
+    {
+      "name": "Synctoon",
+      "description": "Production-ready open-source AI-powered 2D animation tool that converts text scripts and audio into complete animated videos with automated lip-sync, expressions, and frame-based rendering.",
+      "technologies": ["Python", "AI", "Character Animation", "Video Processing"],
+      "highlights": [
+        "Automatically generates animations using AI with lip sync and dynamic character expressions",
+        "Aligns perfectly with audio timing and produces smooth frame-by-frame animations",
+        "Built to make animation accessible to storytellers, educators, YouTubers, and hobbyists",
+        "Featured on YouTube with demo videos showcasing the animation capabilities"
+      ],
+      "github": "https://github.com/Automate-Animation/synctoon",
+      "youtube": "https://lnkd.in/dAcgne4c",
+      "period": "2023 - Present"
+    },
+    {
+      "name": "ToonFrame Architect",
+      "description": "AI-Powered Animation Storyboard Generator that transforms written stories and scripts into detailed animation storyboards using Google's Gemini AI.",
+      "technologies": ["React", "TypeScript", "Vite", "Google Gemini API", "jsPDF", "JSZip"],
+      "highlights": [
+        "Script-to-storyboard conversion with dual start/end frames per scene",
+        "Consistency Bible for character & environment tracking across scenes",
+        "Supports multiple image resolutions: 1K, 2K, 4K for professional workflows",
+        "Export storyboards as PDF or ZIP with modern 2D cartoon style optimization"
+      ],
+      "github": "https://github.com/oyekamal/toonframe-architect",
+      "period": "Jan 2023"
+    },
+    {
+      "name": "Inkwell Apprentice",
+      "description": "AI-Powered Drawing Practice Tool designed to help users practice and improve their inkpen drawing skills with structured exercises and PDF practice sheets.",
+      "technologies": ["TypeScript", "React", "Google Gemini API", "Node.js", "PDF Generation"],
+      "highlights": [
+        "Generates drawing practice sheets in PDF format with structured learning progression",
+        "AI-powered assistance for creating visual prompts and drawing exercises",
+        "Supports beginner to advanced skill levels with automated practice material creation",
+        "Lightweight, fast interface with placeholder image generation for handling failures"
+      ],
+      "github": "https://github.com/oyekamal/inkwell-apprentice",
+      "period": "2023"
+    },
+    {
+      "name": "2D Mouth Lipsyncing Tool Website",
+      "description": "Innovative web-based tool that automates the process of creating 2D mouth lipsync animations using only audio files and text scripts.",
+      "technologies": ["Web Technologies", "Animation Processing", "Audio Analysis"],
+      "highlights": [
+        "Generates high-quality mouth lipsync animation with green background for easy compositing",
+        "User-friendly interface accessible for both experienced and novice animators",
+        "Automated animation generation saves time while maintaining professional quality",
+        "Green screen output allows easy integration into other video projects"
+      ],
+      "github": "https://github.com/Automate-Animation/Automate-mouth-lipsync",
+      "period": "Dec 2022 - Jan 2023"
+    },
+    {
+      "name": "Portfolio Website",
+      "description": "Modern, fully responsive React portfolio website with dynamic JSON data loading and professional PDF CV generation capabilities.",
+      "technologies": ["React 18", "Vite", "jsPDF", "jsPDF-AutoTable", "Modern CSS"],
+      "highlights": [
+        "Dark theme with glassmorphism effects and smooth animations",
+        "PDF CV generation client-side with professional formatting",
+        "Dynamic content management via single JSON file for easy updates",
+        "Component-based architecture with beautiful UI animations and gradient accents"
+      ],
+      "github": "https://github.com/oyekamal/portfolio-website",
+      "period": "2024 - Present"
+    },
+    {
+      "name": "PostgreSQL Data Migrator",
+      "description": "Robust Python suite designed to efficiently transfer tables and data between PostgreSQL databases with advanced constraint handling.",
+      "technologies": ["Python 3.7+", "PostgreSQL", "SQLAlchemy", "psycopg2", "Bash"],
+      "highlights": [
+        "Schema reflection with automatic table creation and constraint handling",
+        "Bulk data migration with configurable chunks for optimal performance",
+        "Deferred constraint handling for complex schemas and table exclusions",
+        "Comprehensive logging and monitoring with secure environment variable support"
+      ],
+      "github": "https://github.com/oyekamal/postgresql-transfer-tool",
+      "period": "2023"
+    },
+    {
+      "name": "PostgreSQL Streaming Physical Replication",
+      "description": "Docker-based setup demonstrating PostgreSQL Streaming Physical Replication for high availability and disaster recovery.",
+      "technologies": ["PostgreSQL 15", "Docker", "Docker Compose", "Shell Scripting"],
+      "highlights": [
+        "Primary-Replica architecture with real-time WAL streaming and Hot Standby mode",
+        "Fully containerized setup with auto-configuration of replication slots",
+        "Supports monitoring of replication lag and failover testing scenarios",
+        "Near real-time replication with crash-consistent, byte-for-byte data integrity"
+      ],
+      "github": "https://github.com/oyekamal/Database-Replication",
+      "period": "2023"
+    },
+    {
+      "name": "Local-to-Internet Tunnel",
+      "description": "Lightweight shell-script-based tool that instantly exposes local backends to the internet using Cloudflare tunnels with auto-detection.",
+      "technologies": ["Shell Scripting", "Cloudflare Tunnel", "DevOps"],
+      "highlights": [
+        "Auto-detection of local backends (Django, React/Node, Flask, Java, etc.)",
+        "Instant public URL generation with comprehensive process management",
+        "Free alternative to ngrok with background process management and auto-recovery",
+        "Simplifies webhook testing, API sharing, and live demos without deployment"
+      ],
+      "github": "https://github.com/oyekamal/local-to-internet-tunnel",
+      "period": "2023"
+    },
+    {
+      "name": "Ubuntu Dev Setup",
+      "description": "Automated shell script that streamlines Ubuntu development environment setup by installing essential development tools with a single command.",
+      "technologies": ["Shell Scripting", "Ubuntu/Linux", "DevOps"],
+      "highlights": [
+        "One-command setup installing Git, VS Code, Postman, Teams, pgAdmin, Docker",
+        "Ensures consistent development environment across team members",
+        "Eliminates repetitive manual installations and configuration errors",
+        "Speeds up onboarding process for new developers significantly"
+      ],
+      "github": "https://github.com/oyekamal/ubuntu-dev-setup",
+      "period": "2023"
+    }
+  ],
+
+  "youtube": {
+    "channels": [
+      {
+        "id": 1,
+        "handle": "@oykamal",
+        "name": "oykamal",
+        "description": "Daily blogs, tech insights, career advice, and personal vlogs about life as a software engineer.",
+        "url": "https://www.youtube.com/@oykamal",
+        "shortsUrl": "https://www.youtube.com/@oykamal/shorts",
+        "videosUrl": "https://www.youtube.com/@oykamal/videos",
+        "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nAd2n4RYvn7WkEw_BKP6bE1o0zRIoMHCAEEeGd_N-C4gM=s160-c-k-c0x00ffffff-no-rj",
+        "theme": "linear-gradient(135deg, #ff0000, #cc0000)",
+        "topics": ["Daily Vlogs", "Tech Insights", "Career Tips", "Lifestyle"]
+      },
+      {
+        "id": 2,
+        "handle": "@kamalkecoding",
+        "name": "Kamal Ke Coding",
+        "description": "Deep-dive coding tutorials, programming tips, software development best practices, and hands-on code walkthroughs.",
+        "url": "https://www.youtube.com/@kamalkecoding",
+        "shortsUrl": "https://www.youtube.com/@kamalkecoding/shorts",
+        "videosUrl": "https://www.youtube.com/@kamalkecoding/videos",
+        "avatar": "https://yt3.googleusercontent.com/ytc/AIdro_nAd2n4RYvn7WkEw_BKP6bE1o0zRIoMHCAEEeGd_N-C4gM=s160-c-k-c0x00ffffff-no-rj",
+        "theme": "linear-gradient(135deg, #00d4ff, #0099cc)",
+        "topics": ["Code Tutorials", "Best Practices", "Live Coding", "Tech Stack"]
+      }
+    ]
+  },
+
+  "education": [
+    {
+      "degree": "Bachelor of Computer Science",
+      "institution": "Iqra University",
+      "location": "Pakistan",
+      "startDate": "2013",
+      "endDate": "2019",
+      "details": "Focus on software engineering, backend systems, and databases"
+    }
+  ],
+
+  "certifications": []
+}
