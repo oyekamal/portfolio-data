@@ -15,10 +15,8 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      # IMPORTANT: Replace with your actual RSS feed URL(s)
-      # Example: "https://dev.to/feed/yourusername" or "https://medium.com/feed/@yourusername"
-      # Multiple feeds: "https://dev.to/feed/user1,https://medium.com/feed/@user2"
-      RSS_FEED_URL: "https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+      # TechCrunch RSS feed URL for automatic blog updates
+      RSS_FEED_URL: "https://techcrunch.com/feed/"
     
     steps:
       - name: Checkout repository
