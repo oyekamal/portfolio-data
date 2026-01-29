@@ -6,6 +6,34 @@ This repository contains portfolio and blog data in JSON format that is automati
 
 This repository includes a GitHub Action workflow that automatically updates the `blogs.json` file with the latest blog posts from your RSS feed every day at 00:00 UTC.
 
+### ⚠️ Configuration Required
+
+**The workflow is currently using a placeholder RSS feed URL and needs to be configured before it will work.**
+
+To enable automatic blog updates:
+
+1. **Find your RSS feed URL** from one of the supported platforms:
+   - **Dev.to**: `https://dev.to/feed/yourusername`
+   - **Medium**: `https://medium.com/feed/@yourusername`
+   - **Hashnode**: `https://yourusername.hashnode.dev/rss.xml`
+   - **WordPress**: `https://yourblog.com/feed/`
+   - **Ghost**: `https://yourblog.com/rss/`
+   - **Substack**: `https://yournewsletter.substack.com/feed`
+
+2. **Update the workflow file**: Edit `.github/workflows/update-blog-json.yml`
+   - Find the `feed_list` parameter (around line 67)
+   - Replace the placeholder with your actual RSS feed URL(s)
+   - You can add multiple feeds separated by commas:
+     ```yaml
+     feed_list: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
+     ```
+
+3. **Enable workflow permissions**:
+   - Go to your repository on GitHub
+   - Navigate to **Settings** → **Actions** → **General**
+   - Under **Workflow permissions**, select **Read and write permissions**
+   - Click **Save**
+
 ### How It Works
 
 1. **Daily Schedule**: The workflow runs automatically once per day
@@ -15,6 +43,8 @@ This repository includes a GitHub Action workflow that automatically updates the
 5. **Automatic Commit**: Commits and pushes changes back to the repository
 
 ### Configuration
+
+**Before the workflow can work, you must configure your RSS feed URL.**
 
 To configure your own RSS feed(s), edit `.github/workflows/update-blog-json.yml` and update the `feed_list` parameter:
 
