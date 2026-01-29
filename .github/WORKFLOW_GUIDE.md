@@ -17,8 +17,8 @@ Common RSS feed formats:
 ### Step 2: Update the Workflow File
 
 1. Open `.github/workflows/update-blog-json.yml`
-2. Find the line with `feed_list:` (around line 39)
-3. Replace the example URL with your actual RSS feed URL(s)
+2. Find the `feed_list:` parameter in the "Fetch latest blog posts from RSS feed" step
+3. Replace the placeholder URL with your actual RSS feed URL(s)
 4. You can add multiple feeds separated by commas:
    ```yaml
    feed_list: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
@@ -27,7 +27,7 @@ Common RSS feed formats:
 ### Step 3: Customize Blog Post Count (Optional)
 
 To change the maximum number of blog posts fetched:
-1. Find the line with `max_post_count:` (around line 41)
+1. Find the `max_post_count:` parameter in the "Fetch latest blog posts from RSS feed" step
 2. Change the value (default is 10):
    ```yaml
    max_post_count: 20
@@ -84,24 +84,23 @@ For the workflow to push changes to your repository:
 
 ## Customization
 
-### Change Author Information
-Edit line ~112 in `.github/workflows/update-blog-json.yml`:
+### Change Author Name
+Edit the `author` field in the "Process blog posts and update JSON" step:
 ```javascript
-author: {
-  name: "Your Name",
-  avatar: "/images/your-avatar.jpg",
-  bio: "Your Bio"
-}
+author: "Your Name"
 ```
 
 ### Change Default Category
-Edit line ~122 in `.github/workflows/update-blog-json.yml`:
+Edit the `category` field in the "Process blog posts and update JSON" step:
 ```javascript
 category: "Your Default Category"
 ```
 
+### Change Default Image
+Edit the `image` field in the "Process blog posts and update JSON" step to use a different default cover image for imported posts.
+
 ### Change Schedule
-Edit lines 4-6 in `.github/workflows/update-blog-json.yml`:
+Edit the `schedule` section at the top of `.github/workflows/update-blog-json.yml`:
 ```yaml
 schedule:
   - cron: '0 */12 * * *'  # Run every 12 hours
