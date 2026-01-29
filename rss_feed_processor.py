@@ -11,18 +11,18 @@ from typing import List, Dict, Any
 import re
 
 
-def parse_rss_feed(rss_content: str) -> List[Dict[str, Any]]:
+def parse_rss_feed(xml_content: str) -> List[Dict[str, Any]]:
     """
     Parse RSS feed XML content and extract blog data
     
     Args:
-        rss_content: Raw RSS XML content as string
+        xml_content: Raw RSS XML content as string
         
     Returns:
         List of blog entries in portfolio format
     """
     try:
-        root = ET.fromstring(rss_content)
+        root = ET.fromstring(xml_content)
         items = root.findall('.//item')
         
         blogs = []
@@ -67,14 +67,20 @@ def parse_rss_feed(rss_content: str) -> List[Dict[str, Any]]:
                 elif any(cat.lower() in ['security', 'cybersecurity'] for cat in categories):
                     category = "Security"
             
-            # Build blog entry
+            # Create excerpt (max 200 chars including ellipsis)
+            if len(clean_desc) > 197:
+                excerpt = clean_desc[:197] + "..."
+            else:
+                excerpt = clean_desc
+            
+            # Build blog entry with temporary ID (will be assigned during merge)
             blog_entry = {
-                "id": idx,
+                "id": 0,  # Temporary ID, will be assigned during merge
                 "slug": slug,
                 "title": title_text,
                 "description": clean_desc,
                 "content": clean_desc,
-                "excerpt": clean_desc[:200] + "..." if len(clean_desc) > 200 else clean_desc,
+                "excerpt": excerpt,
                 "author": creator.text if creator is not None else "TechCrunch",
                 "publishDate": publish_date,
                 "lastModified": publish_date,

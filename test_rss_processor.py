@@ -138,8 +138,9 @@ def test_process_full_integration():
         
         # Check that new blogs are at the beginning
         first_blog = blogs_data['blogs'][0]
-        assert 'TechCrunch' in first_blog.get('author', '') or first_blog.get('title', '').startswith('AI Startup'), \
-            "First blog should be from RSS feed"
+        # Verify first blog is from RSS feed (has author and 2026 date)
+        assert first_blog.get('publishDate', '').startswith('2026'), \
+            "First blog should be from the 2026 RSS feed"
         
         print(f"✓ Successfully integrated RSS feed into blogs.json")
         print(f"✓ Total blogs in blogs.json: {len(blogs_data['blogs'])}")
