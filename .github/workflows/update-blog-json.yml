@@ -1,0 +1,207 @@
+name: Update Blog JSON Daily
+
+on:
+  schedule:
+    # Run daily at 00:00 UTC
+    - cron: '0 0 * * *'
+  workflow_dispatch: # Allow manual trigger
+
+permissions:
+  contents: write # Required to commit and push changes
+
+jobs:
+  update-blog-json:
+    name: Update blogs.json with latest blog posts
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      
+      - name: Create temporary README for blog posts
+        run: |
+          cat > /tmp/temp_readme.md << 'EOF'
+          # Blog Posts
+          <!-- BLOG-POST-LIST:START -->
+          <!-- BLOG-POST-LIST:END -->
+          EOF
+      
+      - name: Fetch latest blog posts from RSS feed
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          # IMPORTANT: Replace with your actual RSS feed URL(s)
+          # Example: "https://dev.to/feed/yourusername" or "https://medium.com/feed/@yourusername"
+          # The default URL below is a placeholder - the workflow will fail if not updated
+          feed_list: "https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+          readme_path: /tmp/temp_readme.md
+          max_post_count: 10
+          output_only: false
+          disable_sort: false
+          sort_order: desc
+          custom_tags: "pubDate/pubDate/"
+          commit_message: "Updated blog posts"
+          committer_username: "blog-update-bot"
+          committer_email: "blog-update-bot@users.noreply.github.com"
+      
+      - name: Process blog posts and update JSON
+        run: |
+          # Parse the temp README to extract blog post data
+          if [ -f /tmp/temp_readme.md ]; then
+            echo "Found temp readme with blog posts"
+            
+            # Create a Node.js script to update blogs.json
+            cat > /tmp/update_blogs.js << 'SCRIPT'
+          const fs = require('fs');
+          const path = require('path');
+          
+          // Parse blog posts from the generated markdown file
+          let newPosts = [];
+          try {
+            const readmeContent = fs.readFileSync('/tmp/temp_readme.md', 'utf8');
+            
+            // Extract blog post list between the comment tags
+            const startTag = '<!-- BLOG-POST-LIST:START -->';
+            const endTag = '<!-- BLOG-POST-LIST:END -->';
+            const startIndex = readmeContent.indexOf(startTag);
+            const endIndex = readmeContent.indexOf(endTag);
+            
+            if (startIndex !== -1 && endIndex !== -1) {
+              const postsSection = readmeContent.substring(startIndex + startTag.length, endIndex).trim();
+              
+              // Parse markdown list items
+              const lines = postsSection.split('\n');
+              for (const line of lines) {
+                // Match markdown links: - [Title](URL)
+                const match = line.match(/^-\s*\[([^\]]+)\]\(([^)]+)\)/);
+                if (match) {
+                  newPosts.push({
+                    title: match[1].trim(),
+                    url: match[2].trim()
+                  });
+                }
+              }
+            }
+            
+            console.log(`Parsed ${newPosts.length} blog posts from RSS feed`);
+          } catch (error) {
+            console.error('Error reading temp readme:', error.message);
+            process.exit(0); // Exit gracefully if no new posts
+          }
+          
+          if (newPosts.length === 0) {
+            console.log('No blog posts found in RSS feed');
+            process.exit(0);
+          }
+          
+          // Read existing blogs.json
+          const blogsPath = path.join(process.cwd(), 'blogs.json');
+          let blogsData;
+          try {
+            const blogsContent = fs.readFileSync(blogsPath, 'utf8');
+            blogsData = JSON.parse(blogsContent);
+          } catch (error) {
+            console.error('Error reading blogs.json:', error.message);
+            process.exit(1);
+          }
+          
+          // Extract existing blog titles and external URLs to avoid duplicates
+          const existingTitles = new Set(blogsData.blogs.map(b => b.title));
+          const existingUrls = new Set(blogsData.blogs.filter(b => b.externalUrl).map(b => b.externalUrl));
+          
+          // Find the maximum existing ID to generate new IDs
+          const maxId = blogsData.blogs.reduce((max, blog) => Math.max(max, blog.id || 0), 0);
+          
+          // Process new posts and add them if they don't exist
+          let postsAdded = 0;
+          const currentDate = new Date().toISOString().split('T')[0]; // YYYY-MM-DD format
+          
+          newPosts.forEach((post, index) => {
+            if (post.title && post.url && !existingTitles.has(post.title) && !existingUrls.has(post.url)) {
+              // Create new blog entry matching existing structure
+              const newBlog = {
+                id: maxId + postsAdded + 1,
+                slug: post.title.toLowerCase()
+                  .replace(/[^a-z0-9]+/g, '-')
+                  .replace(/^-|-$/g, ''),
+                title: post.title,
+                description: `Imported from RSS feed: ${post.title}`,
+                content: {
+                  introduction: `This post was imported from an external blog. Read the full article at the link below.`,
+                  sections: [],
+                  conclusion: "",
+                  keyTakeaways: []
+                },
+                excerpt: post.title,
+                author: "Muhammad Kamal",
+                publishDate: currentDate,
+                lastModified: currentDate,
+                readTime: "5 min read",
+                category: "Technology",
+                tags: ["External", "Blog"],
+                image: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+                featured: false,
+                views: 0,
+                seo: {
+                  metaTitle: post.title,
+                  metaDescription: post.title,
+                  keywords: ["blog", "external"],
+                  ogImage: "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+                  canonicalUrl: post.url
+                },
+                externalUrl: post.url
+              };
+              
+              blogsData.blogs.unshift(newBlog); // Add to beginning
+              postsAdded++;
+            }
+          });
+          
+          if (postsAdded > 0) {
+            // Write updated blogs.json
+            fs.writeFileSync(blogsPath, JSON.stringify(blogsData, null, 2) + '\n');
+            console.log(`Added ${postsAdded} new blog post(s) to blogs.json`);
+          } else {
+            console.log('No new blog posts to add (all posts already exist)');
+          }
+          SCRIPT
+            
+            # Run the update script
+            node /tmp/update_blogs.js
+          else
+            echo "No temp readme found, skipping update"
+          fi
+      
+      - name: Check for changes
+        id: check_changes
+        run: |
+          if git diff --quiet blogs.json; then
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+            echo "No changes to blogs.json"
+          else
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+            echo "Changes detected in blogs.json"
+          fi
+      
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          git config user.name "blog-update-bot"
+          git config user.email "blog-update-bot@users.noreply.github.com"
+          git add blogs.json
+          git commit -m "chore: update blogs.json with latest blog posts"
+          git push
+      
+      - name: Summary
+        run: |
+          echo "Blog JSON update workflow completed successfully"
+          if [ -f blogs.json ]; then
+            # Count blogs using Node.js since jq is not needed elsewhere
+            node -e "console.log('Current number of blogs:', require('./blogs.json').blogs.length)"
+          fi
