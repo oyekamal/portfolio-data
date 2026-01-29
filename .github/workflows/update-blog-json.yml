@@ -14,6 +14,12 @@ jobs:
     name: Update blogs.json with latest blog posts
     runs-on: ubuntu-latest
     
+    env:
+      # IMPORTANT: Replace with your actual RSS feed URL(s)
+      # Example: "https://dev.to/feed/yourusername" or "https://medium.com/feed/@yourusername"
+      # Multiple feeds: "https://dev.to/feed/user1,https://medium.com/feed/@user2"
+      RSS_FEED_URL: "https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,7 +31,29 @@ jobs:
         with:
           node-version: '20'
       
+      - name: Validate RSS feed configuration
+        id: validate_feed
+        run: |
+          # Check if the feed URL is still a placeholder
+          FEED_URL="${RSS_FEED_URL}"
+          
+          if [[ "$FEED_URL" == *"REPLACE_WITH_YOUR_USERNAME"* ]] || [[ "$FEED_URL" == *"example.com"* ]]; then
+            echo "⚠️  WARNING: RSS feed URL is not configured!"
+            echo "Please update the RSS_FEED_URL in .github/workflows/update-blog-json.yml"
+            echo "Examples:"
+            echo "  - Dev.to: https://dev.to/feed/yourusername"
+            echo "  - Medium: https://medium.com/feed/@yourusername"
+            echo "  - Hashnode: https://yourusername.hashnode.dev/rss.xml"
+            echo ""
+            echo "Skipping RSS fetch step. No changes will be made to blogs.json"
+            echo "feed_configured=false" >> $GITHUB_OUTPUT
+          else
+            echo "✅ RSS feed URL is configured: $FEED_URL"
+            echo "feed_configured=true" >> $GITHUB_OUTPUT
+          fi
+      
       - name: Create temporary README for blog posts
+        if: steps.validate_feed.outputs.feed_configured == 'true'
         run: |
           cat > /tmp/temp_readme.md << 'EOF'
           # Blog Posts
@@ -34,12 +62,12 @@ jobs:
           EOF
       
       - name: Fetch latest blog posts from RSS feed
+        if: steps.validate_feed.outputs.feed_configured == 'true'
+        continue-on-error: true
+        id: fetch_rss
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # IMPORTANT: Replace with your actual RSS feed URL(s)
-          # Example: "https://dev.to/feed/yourusername" or "https://medium.com/feed/@yourusername"
-          # The default URL below is a placeholder - the workflow will fail if not updated
-          feed_list: "https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+          feed_list: ${{ env.RSS_FEED_URL }}
           readme_path: /tmp/temp_readme.md
           max_post_count: 10
           output_only: false
@@ -51,6 +79,7 @@ jobs:
           committer_email: "blog-update-bot@users.noreply.github.com"
       
       - name: Process blog posts and update JSON
+        if: steps.validate_feed.outputs.feed_configured == 'true'
         run: |
           # Parse the temp README to extract blog post data
           if [ -f /tmp/temp_readme.md ]; then
@@ -200,8 +229,38 @@ jobs:
       
       - name: Summary
         run: |
-          echo "Blog JSON update workflow completed successfully"
-          if [ -f blogs.json ]; then
-            # Count blogs using Node.js since jq is not needed elsewhere
-            node -e "console.log('Current number of blogs:', require('./blogs.json').blogs.length)"
+          if [ "${{ steps.validate_feed.outputs.feed_configured }}" = "false" ]; then
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            echo "⚠️  WORKFLOW SKIPPED - RSS FEED NOT CONFIGURED"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            echo ""
+            echo "To enable automatic blog updates, please configure your RSS feed:"
+            echo ""
+            echo "1. Edit: .github/workflows/update-blog-json.yml"
+            echo "2. Update the 'RSS_FEED_URL' environment variable with your actual RSS feed URL"
+            echo ""
+            echo "Supported platforms:"
+            echo "  • Dev.to:    https://dev.to/feed/yourusername"
+            echo "  • Medium:    https://medium.com/feed/@yourusername"
+            echo "  • Hashnode:  https://yourusername.hashnode.dev/rss.xml"
+            echo "  • WordPress: https://yourblog.com/feed/"
+            echo "  • Ghost:     https://yourblog.com/rss/"
+            echo ""
+            echo "For detailed instructions, see: .github/WORKFLOW_GUIDE.md"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+          else
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            echo "✅ Blog JSON update workflow completed"
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
+            if [ -f blogs.json ]; then
+              # Count blogs using Node.js since jq is not needed elsewhere
+              node -e "console.log('Current number of blogs:', require('./blogs.json').blogs.length)"
+            fi
+            
+            if [ "${{ steps.check_changes.outputs.has_changes }}" = "true" ]; then
+              echo "✅ New blog posts were added to blogs.json"
+            else
+              echo "ℹ️  No new posts found (or all posts already exist)"
+            fi
+            echo "━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━"
           fi
