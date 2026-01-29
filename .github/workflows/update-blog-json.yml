@@ -14,6 +14,12 @@ jobs:
     name: Update blogs.json with latest blog posts
     runs-on: ubuntu-latest
     
+    env:
+      # IMPORTANT: Replace with your actual RSS feed URL(s)
+      # Example: "https://dev.to/feed/yourusername" or "https://medium.com/feed/@yourusername"
+      # Multiple feeds: "https://dev.to/feed/user1,https://medium.com/feed/@user2"
+      RSS_FEED_URL: "https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+    
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -29,11 +35,11 @@ jobs:
         id: validate_feed
         run: |
           # Check if the feed URL is still a placeholder
-          FEED_URL="https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+          FEED_URL="${RSS_FEED_URL}"
           
           if [[ "$FEED_URL" == *"REPLACE_WITH_YOUR_USERNAME"* ]] || [[ "$FEED_URL" == *"example.com"* ]]; then
             echo "⚠️  WARNING: RSS feed URL is not configured!"
-            echo "Please update the feed_list in .github/workflows/update-blog-json.yml"
+            echo "Please update the RSS_FEED_URL in .github/workflows/update-blog-json.yml"
             echo "Examples:"
             echo "  - Dev.to: https://dev.to/feed/yourusername"
             echo "  - Medium: https://medium.com/feed/@yourusername"
@@ -61,10 +67,7 @@ jobs:
         id: fetch_rss
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          # IMPORTANT: Replace with your actual RSS feed URL(s)
-          # Example: "https://dev.to/feed/yourusername" or "https://medium.com/feed/@yourusername"
-          # The default URL below is a placeholder - update it with your real RSS feed
-          feed_list: "https://example.com/feed/REPLACE_WITH_YOUR_USERNAME"
+          feed_list: ${{ env.RSS_FEED_URL }}
           readme_path: /tmp/temp_readme.md
           max_post_count: 10
           output_only: false
@@ -234,7 +237,7 @@ jobs:
             echo "To enable automatic blog updates, please configure your RSS feed:"
             echo ""
             echo "1. Edit: .github/workflows/update-blog-json.yml"
-            echo "2. Update the 'feed_list' parameter with your actual RSS feed URL"
+            echo "2. Update the 'RSS_FEED_URL' environment variable with your actual RSS feed URL"
             echo ""
             echo "Supported platforms:"
             echo "  • Dev.to:    https://dev.to/feed/yourusername"

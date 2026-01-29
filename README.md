@@ -21,11 +21,11 @@ To enable automatic blog updates:
    - **Substack**: `https://yournewsletter.substack.com/feed`
 
 2. **Update the workflow file**: Edit `.github/workflows/update-blog-json.yml`
-   - Find the `feed_list` parameter (around line 67)
+   - Find the `RSS_FEED_URL` environment variable (around line 20)
    - Replace the placeholder with your actual RSS feed URL(s)
    - You can add multiple feeds separated by commas:
      ```yaml
-     feed_list: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
+     RSS_FEED_URL: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
      ```
 
 3. **Enable workflow permissions**:
@@ -46,10 +46,10 @@ To enable automatic blog updates:
 
 **Before the workflow can work, you must configure your RSS feed URL.**
 
-To configure your own RSS feed(s), edit `.github/workflows/update-blog-json.yml` and update the `feed_list` parameter:
+To configure your own RSS feed(s), edit `.github/workflows/update-blog-json.yml` and update the `RSS_FEED_URL` environment variable:
 
 ```yaml
-feed_list: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
+RSS_FEED_URL: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
 ```
 
 For detailed setup instructions, see [Workflow Configuration Guide](.github/WORKFLOW_GUIDE.md).
