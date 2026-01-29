@@ -22,6 +22,8 @@ To configure your own RSS feed(s), edit `.github/workflows/update-blog-json.yml`
 feed_list: "https://dev.to/feed/yourusername,https://medium.com/feed/@yourusername"
 ```
 
+For detailed setup instructions, see [Workflow Configuration Guide](.github/WORKFLOW_GUIDE.md).
+
 ### Supported RSS Feed Sources
 
 - Dev.to: `https://dev.to/feed/username`
