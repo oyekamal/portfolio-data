@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+    xmlns:content="http://purl.org/rss/1.0/modules/content/"
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>TechCrunch</title>
+        <link>https://techcrunch.com</link>
+        <description>Startup and Technology News</description>
+        <lastBuildDate>Wed, 29 Jan 2026 11:00:00 +0000</lastBuildDate>
+        <language>en-US</language>
+        
+        <item>
+            <title>AI Startup Raises $100M Series B to Transform Healthcare</title>
+            <link>https://techcrunch.com/2026/01/29/ai-startup-healthcare</link>
+            <description><![CDATA[A groundbreaking AI startup focused on healthcare diagnostics has secured $100 million in Series B funding. The company uses machine learning to analyze medical images and provide accurate diagnoses, helping doctors make better decisions faster.]]></description>
+            <pubDate>Wed, 29 Jan 2026 09:00:00 +0000</pubDate>
+            <dc:creator>Sarah Martinez</dc:creator>
+            <category>Startups</category>
+            <category>AI</category>
+            <category>Healthcare</category>
+            <category>Funding</category>
+        </item>
+        
+        <item>
+            <title>Cybersecurity Firm Discovers Critical Vulnerability in Popular Software</title>
+            <link>https://techcrunch.com/2026/01/28/critical-security-vulnerability</link>
+            <description><![CDATA[Security researchers have identified a critical vulnerability affecting millions of users worldwide. The flaw allows unauthorized access to sensitive data and has prompted immediate patches from affected vendors.]]></description>
+            <pubDate>Tue, 28 Jan 2026 14:30:00 +0000</pubDate>
+            <dc:creator>Alex Chen</dc:creator>
+            <category>Security</category>
+            <category>Cybersecurity</category>
+            <category>Software</category>
+        </item>
+        
+        <item>
+            <title>Electric Vehicle Manufacturer Announces Revolutionary Battery Technology</title>
+            <link>https://techcrunch.com/2026/01/27/ev-battery-breakthrough</link>
+            <description><![CDATA[A leading electric vehicle manufacturer has unveiled a new battery technology that promises to double range while cutting charging times in half. The innovation could accelerate the transition to electric transportation.]]></description>
+            <pubDate>Mon, 27 Jan 2026 10:15:00 +0000</pubDate>
+            <dc:creator>Jordan Lee</dc:creator>
+            <category>Transportation</category>
+            <category>Electric Vehicles</category>
+            <category>Innovation</category>
+            <category>Climate Tech</category>
+        </item>
+        
+        <item>
+            <title>Tech Giants Face New Regulatory Scrutiny Over Data Privacy</title>
+            <link>https://techcrunch.com/2026/01/26/tech-regulation-privacy</link>
+            <description><![CDATA[Regulators in multiple countries are introducing stricter data privacy rules that will require tech companies to fundamentally change how they collect and use customer data. The new regulations could reshape the digital advertising industry.]]></description>
+            <pubDate>Sun, 26 Jan 2026 08:45:00 +0000</pubDate>
+            <dc:creator>Taylor Morgan</dc:creator>
+            <category>Policy</category>
+            <category>Privacy</category>
+            <category>Regulation</category>
+            <category>Big Tech</category>
+        </item>
+        
+        <item>
+            <title>Quantum Computing Startup Achieves Major Milestone</title>
+            <link>https://techcrunch.com/2026/01/25/quantum-computing-milestone</link>
+            <description><![CDATA[A quantum computing startup has demonstrated a practical application that solves a complex problem faster than any classical computer. This breakthrough brings quantum computing closer to commercial viability.]]></description>
+            <pubDate>Sat, 25 Jan 2026 12:00:00 +0000</pubDate>
+            <dc:creator>Casey Kim</dc:creator>
+            <category>Quantum Computing</category>
+            <category>Startups</category>
+            <category>Innovation</category>
+            <category>Research</category>
+        </item>
+        
+        <item>
+            <title>Social Media Platform Launches New Creator Monetization Features</title>
+            <link>https://techcrunch.com/2026/01/24/social-media-creator-tools</link>
+            <description><![CDATA[A popular social media platform is rolling out new monetization tools for content creators, including subscription tiers, tipping features, and enhanced analytics. The move aims to compete with other creator-focused platforms.]]></description>
+            <pubDate>Fri, 24 Jan 2026 16:20:00 +0000</pubDate>
+            <dc:creator>Morgan Riley</dc:creator>
+            <category>Social Media</category>
+            <category>Creator Economy</category>
+            <category>Monetization</category>
+        </item>
+        
+        <item>
+            <title>Fintech Unicorn Expands to 10 New Markets</title>
+            <link>https://techcrunch.com/2026/01/23/fintech-expansion</link>
+            <description><![CDATA[A leading fintech company valued at over $5 billion is expanding its payment services to 10 new countries across Asia and Latin America. The expansion will bring digital financial services to millions of underbanked consumers.]]></description>
+            <pubDate>Thu, 23 Jan 2026 11:30:00 +0000</pubDate>
+            <dc:creator>Jamie Patel</dc:creator>
+            <category>Fintech</category>
+            <category>Payments</category>
+            <category>International</category>
+            <category>Financial Services</category>
+        </item>
+        
+        <item>
+            <title>Machine Learning Model Breaks Language Translation Benchmark</title>
+            <link>https://techcrunch.com/2026/01/22/ml-translation-breakthrough</link>
+            <description><![CDATA[Researchers have developed a new machine learning model that achieves unprecedented accuracy in language translation, particularly for low-resource languages. The technology could break down communication barriers worldwide.]]></description>
+            <pubDate>Wed, 22 Jan 2026 09:45:00 +0000</pubDate>
+            <dc:creator>Sam Torres</dc:creator>
+            <category>AI</category>
+            <category>Machine Learning</category>
+            <category>Natural Language Processing</category>
+            <category>Research</category>
+        </item>
+    </channel>
+</rss>
