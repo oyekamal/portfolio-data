@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 15,
+      "slug": "waymo-robotaxis-are-now-giving-rides-to-and-from-san-francisco-international-airport",
+      "title": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+      "description": "Imported from RSS feed: Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+        "metaDescription": "Waymo robotaxis are now giving rides to and from San Francisco International Airport",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/waymo-sfo-airport-robotaxis/"
+    },
+    {
+      "id": 14,
+      "slug": "apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up",
+      "title": "Apple buys Israeli startup Q.ai as the AI race heats up",
+      "description": "Imported from RSS feed: Apple buys Israeli startup Q.ai as the AI race heats up",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Apple buys Israeli startup Q.ai as the AI race heats up",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Apple buys Israeli startup Q.ai as the AI race heats up",
+        "metaDescription": "Apple buys Israeli startup Q.ai as the AI race heats up",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/apple-buys-israeli-startup-q-ai-as-the-ai-race-heats-up/"
+    },
+    {
+      "id": 13,
+      "slug": "satya-nadella-insists-people-are-using-microsoft-s-copilot-ai-a-lot",
+      "title": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "description": "Imported from RSS feed: Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+        "metaDescription": "Satya Nadella insists people are using Microsoft’s Copilot AI a lot",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/satya-nadella-insists-people-are-using-microsofts-copilot-ai-a-lot/"
+    },
+    {
+      "id": 12,
+      "slug": "fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach",
+      "title": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+      "description": "Imported from RSS feed: Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+        "metaDescription": "Fintech firm Marquis blames hack at firewall provider SonicWall for its data breach",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/fintech-firm-marquis-blames-hack-at-firewall-provider-sonicwall-for-its-data-breach/"
+    },
+    {
+      "id": 11,
+      "slug": "microsoft-won-t-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says",
+      "title": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+      "description": "Imported from RSS feed: Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+        "metaDescription": "Microsoft won’t stop buying AI chips from Nvidia, AMD, even after launching its own, Nadella says",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/microsoft-wont-stop-buying-ai-chips-from-nvidia-amd-even-after-launching-its-own-nadella-says/"
+    },
+    {
+      "id": 10,
+      "slug": "medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice",
+      "title": "Medium gives employees Friday off to participate in national strike protesting ICE",
+      "description": "Imported from RSS feed: Medium gives employees Friday off to participate in national strike protesting ICE",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Medium gives employees Friday off to participate in national strike protesting ICE",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Medium gives employees Friday off to participate in national strike protesting ICE",
+        "metaDescription": "Medium gives employees Friday off to participate in national strike protesting ICE",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/medium-gives-employees-friday-off-to-participate-in-national-strike-protesting-ice/"
+    },
+    {
+      "id": 9,
+      "slug": "amazon-is-reportedly-in-talks-to-invest-50b-in-openai",
+      "title": "Amazon is reportedly in talks to invest $50B in OpenAI",
+      "description": "Imported from RSS feed: Amazon is reportedly in talks to invest $50B in OpenAI",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Amazon is reportedly in talks to invest $50B in OpenAI",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Amazon is reportedly in talks to invest $50B in OpenAI",
+        "metaDescription": "Amazon is reportedly in talks to invest $50B in OpenAI",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/amazon-is-reportedly-in-talks-to-invest-50-billion-in-openai/"
+    },
+    {
+      "id": 8,
+      "slug": "elon-musk-s-spacex-tesla-and-xai-in-talks-to-merge-according-to-reports",
+      "title": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+      "description": "Imported from RSS feed: Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+        "metaDescription": "Elon Musk’s SpaceX, Tesla, and xAI in talks to merge, according to reports",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/elon-musk-spacex-tesla-xai-merger-talks-ipo-reuters/"
+    },
+    {
+      "id": 7,
+      "slug": "guys-i-don-t-think-tim-cook-knows-how-to-monetize-ai",
+      "title": "Guys, I don’t think Tim Cook knows how to monetize AI",
+      "description": "Imported from RSS feed: Guys, I don’t think Tim Cook knows how to monetize AI",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Guys, I don’t think Tim Cook knows how to monetize AI",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Guys, I don’t think Tim Cook knows how to monetize AI",
+        "metaDescription": "Guys, I don’t think Tim Cook knows how to monetize AI",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/guys-i-dont-think-tim-cook-knows-how-to-monetize-ai/"
+    },
+    {
+      "id": 6,
+      "slug": "the-iphone-just-had-its-best-quarter-ever",
+      "title": "The iPhone just had its best quarter ever",
+      "description": "Imported from RSS feed: The iPhone just had its best quarter ever",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "The iPhone just had its best quarter ever",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-01-30",
+      "lastModified": "2026-01-30",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "The iPhone just had its best quarter ever",
+        "metaDescription": "The iPhone just had its best quarter ever",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/01/29/the-iphone-just-had-its-best-quarter-ever/"
+    },
+    {
       "id": 1,
       "slug": "django-performance-optimization-tips",
       "title": "10 Django Performance Optimization Tips for Production",
@@ -65,14 +425,29 @@
       "lastModified": "2024-12-15",
       "readTime": "8 min read",
       "category": "Backend Development",
-      "tags": ["Django", "Python", "Performance", "Optimization", "PostgreSQL", "Redis", "Caching"],
+      "tags": [
+        "Django",
+        "Python",
+        "Performance",
+        "Optimization",
+        "PostgreSQL",
+        "Redis",
+        "Caching"
+      ],
       "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=800&q=80",
       "featured": true,
       "views": 0,
       "seo": {
         "metaTitle": "10 Django Performance Optimization Tips for Production | Muhammad Kamal",
         "metaDescription": "Master Django performance optimization with proven techniques for database queries, caching, and scaling. Learn from real production experience.",
-        "keywords": ["django optimization", "django performance", "python django", "database optimization", "redis caching", "django production"],
+        "keywords": [
+          "django optimization",
+          "django performance",
+          "python django",
+          "database optimization",
+          "redis caching",
+          "django production"
+        ],
         "ogImage": "https://images.unsplash.com/photo-1555066931-4365d14bab8c?w=1200&q=80",
         "canonicalUrl": "https://oykamal.com/blog/django-performance-optimization-tips"
       }
@@ -89,14 +464,28 @@
       "lastModified": "2024-12-01",
       "readTime": "12 min read",
       "category": "Database",
-      "tags": ["PostgreSQL", "Database Migration", "Zero Downtime", "DevOps", "Production", "Data Integrity"],
+      "tags": [
+        "PostgreSQL",
+        "Database Migration",
+        "Zero Downtime",
+        "DevOps",
+        "Production",
+        "Data Integrity"
+      ],
       "image": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=800&q=80",
       "featured": true,
       "views": 0,
       "seo": {
         "metaTitle": "Zero-Downtime Database Migrations Guide | PostgreSQL Production Best Practices",
         "metaDescription": "Execute PostgreSQL migrations on millions of rows without downtime. Learn production-tested strategies for data integrity and service availability.",
-        "keywords": ["zero downtime migration", "postgresql migration", "database migration", "production database", "data integrity", "devops"],
+        "keywords": [
+          "zero downtime migration",
+          "postgresql migration",
+          "database migration",
+          "production database",
+          "data integrity",
+          "devops"
+        ],
         "ogImage": "https://images.unsplash.com/photo-1544383835-bda2bc66a55d?w=1200&q=80",
         "canonicalUrl": "https://oykamal.com/blog/zero-downtime-database-migrations"
       }
@@ -113,14 +502,29 @@
       "lastModified": "2024-11-20",
       "readTime": "10 min read",
       "category": "DevOps",
-      "tags": ["AWS", "CI/CD", "Docker", "DevOps", "Automation", "Deployment", "Git"],
+      "tags": [
+        "AWS",
+        "CI/CD",
+        "Docker",
+        "DevOps",
+        "Automation",
+        "Deployment",
+        "Git"
+      ],
       "image": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=800&q=80",
       "featured": false,
       "views": 0,
       "seo": {
         "metaTitle": "AWS CI/CD Pipeline Best Practices with Docker | DevOps Guide",
         "metaDescription": "Learn to build robust CI/CD pipelines using AWS and Docker. Reduce deployment failures with proven DevOps practices and automation strategies.",
-        "keywords": ["aws cicd", "docker deployment", "cicd pipeline", "aws devops", "continuous integration", "continuous deployment"],
+        "keywords": [
+          "aws cicd",
+          "docker deployment",
+          "cicd pipeline",
+          "aws devops",
+          "continuous integration",
+          "continuous deployment"
+        ],
         "ogImage": "https://images.unsplash.com/photo-1667372393119-3d4c48d07fc9?w=1200&q=80",
         "canonicalUrl": "https://oykamal.com/blog/aws-cicd-pipeline-best-practices"
       }
@@ -137,14 +541,28 @@
       "lastModified": "2024-11-10",
       "readTime": "7 min read",
       "category": "Career",
-      "tags": ["Career", "Python", "Backend Development", "Software Engineering", "Career Growth", "Learning"],
+      "tags": [
+        "Career",
+        "Python",
+        "Backend Development",
+        "Software Engineering",
+        "Career Growth",
+        "Learning"
+      ],
       "image": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=800&q=80",
       "featured": false,
       "views": 0,
       "seo": {
         "metaTitle": "Python Backend Engineer Career Guide | Junior to Senior Journey",
         "metaDescription": "Career roadmap for Python backend engineers. Learn essential skills and strategies for growing from junior to senior level.",
-        "keywords": ["python backend career", "backend engineer guide", "software engineering career", "python developer", "career growth", "backend development"],
+        "keywords": [
+          "python backend career",
+          "backend engineer guide",
+          "software engineering career",
+          "python developer",
+          "career growth",
+          "backend development"
+        ],
         "ogImage": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?w=1200&q=80",
         "canonicalUrl": "https://oykamal.com/blog/python-backend-career-guide"
       }
@@ -161,14 +579,29 @@
       "lastModified": "2024-10-25",
       "readTime": "9 min read",
       "category": "System Design",
-      "tags": ["Kafka", "RabbitMQ", "Event-Driven Architecture", "Microservices", "System Design", "Message Queue"],
+      "tags": [
+        "Kafka",
+        "RabbitMQ",
+        "Event-Driven Architecture",
+        "Microservices",
+        "System Design",
+        "Message Queue"
+      ],
       "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&q=80",
       "featured": false,
       "views": 0,
       "seo": {
         "metaTitle": "Kafka vs RabbitMQ: Event-Driven Architecture Guide | Production Comparison",
         "metaDescription": "Compare Kafka and RabbitMQ for event-driven systems. Learn trade-offs, use cases, and implementation patterns from production experience.",
-        "keywords": ["kafka vs rabbitmq", "event driven architecture", "message queue", "microservices", "kafka", "rabbitmq", "system design"],
+        "keywords": [
+          "kafka vs rabbitmq",
+          "event driven architecture",
+          "message queue",
+          "microservices",
+          "kafka",
+          "rabbitmq",
+          "system design"
+        ],
         "ogImage": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=1200&q=80",
         "canonicalUrl": "https://oykamal.com/blog/kafka-rabbitmq-event-driven-architecture"
       }
