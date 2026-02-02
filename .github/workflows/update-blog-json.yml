@@ -15,8 +15,18 @@ jobs:
     runs-on: ubuntu-latest
     
     env:
-      # TechCrunch RSS feed URL for automatic blog updates
-      RSS_FEED_URL: "https://techcrunch.com/feed/"
+      # Multiple RSS feeds for AI, Tech, and Coding content
+      RSS_FEED_URLS: |
+        https://stackoverflow.blog/feed/
+        https://www.freecodecamp.org/news/rss/
+        https://dev.to/feed/
+        https://machinelearningmastery.com/feed/
+        https://news.mit.edu/topic/mitartificial-intelligence2-rss.xml
+        https://www.artificialintelligence-news.com/feed/
+        https://www.smashingmagazine.com/feed/
+        https://hnrss.org/frontpage
+        https://feeds.arstechnica.com/arstechnica/index
+        https://www.theverge.com/rss/index.xml
     
     steps:
       - name: Checkout repository
@@ -32,21 +42,19 @@ jobs:
       - name: Validate RSS feed configuration
         id: validate_feed
         run: |
-          # Check if the feed URL is still a placeholder
-          FEED_URL="${RSS_FEED_URL}"
-          
-          if [[ "$FEED_URL" == *"REPLACE_WITH_YOUR_USERNAME"* ]] || [[ "$FEED_URL" == *"example.com"* ]]; then
-            echo "⚠️  WARNING: RSS feed URL is not configured!"
-            echo "Please update the RSS_FEED_URL in .github/workflows/update-blog-json.yml"
-            echo "Examples:"
-            echo "  - Dev.to: https://dev.to/feed/yourusername"
-            echo "  - Medium: https://medium.com/feed/@yourusername"
-            echo "  - Hashnode: https://yourusername.hashnode.dev/rss.xml"
+          # Check if the feed URLs are configured
+          FEED_URLS="${RSS_FEED_URLS}"
+
+          if [[ -z "$FEED_URLS" ]] || [[ "$FEED_URLS" == *"REPLACE_WITH_YOUR_USERNAME"* ]] || [[ "$FEED_URLS" == *"example.com"* ]]; then
+            echo "⚠️  WARNING: RSS feed URLs are not configured!"
+            echo "Please update the RSS_FEED_URLS in .github/workflows/update-blog-json.yml"
             echo ""
             echo "Skipping RSS fetch step. No changes will be made to blogs.json"
             echo "feed_configured=false" >> $GITHUB_OUTPUT
           else
-            echo "✅ RSS feed URL is configured: $FEED_URL"
+            echo "✅ RSS feed URLs are configured"
+            echo "Configured feeds:"
+            echo "$FEED_URLS"
             echo "feed_configured=true" >> $GITHUB_OUTPUT
           fi
       
@@ -65,9 +73,9 @@ jobs:
         id: fetch_rss
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
-          feed_list: ${{ env.RSS_FEED_URL }}
+          feed_list: ${{ env.RSS_FEED_URLS }}
           readme_path: /tmp/temp_readme.md
-          max_post_count: 10
+          max_post_count: 20
           output_only: false
           disable_sort: false
           sort_order: desc

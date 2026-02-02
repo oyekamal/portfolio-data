@@ -22,3 +22,7 @@ Thumbs.db
 # Temporary files
 /tmp/
 *.tmp
+
+
+#Ignore vscode AI rules
+.github/instructions/codacy.instructions.md
