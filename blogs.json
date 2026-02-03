@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 48,
+      "slug": "openai-launches-new-macos-app-for-agentic-coding",
+      "title": "OpenAI launches new macOS app for agentic coding",
+      "description": "Imported from RSS feed: OpenAI launches new macOS app for agentic coding",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "OpenAI launches new macOS app for agentic coding",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "OpenAI launches new macOS app for agentic coding",
+        "metaDescription": "OpenAI launches new macOS app for agentic coding",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/openai-launches-new-macos-app-for-agentic-coding/"
+    },
+    {
+      "id": 47,
+      "slug": "grubhub-waives-delivery-and-service-fees-on-restaurant-orders-over-50",
+      "title": "Grubhub waives delivery and service fees on restaurant orders over $50",
+      "description": "Imported from RSS feed: Grubhub waives delivery and service fees on restaurant orders over $50",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Grubhub waives delivery and service fees on restaurant orders over $50",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Grubhub waives delivery and service fees on restaurant orders over $50",
+        "metaDescription": "Grubhub waives delivery and service fees on restaurant orders over $50",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/grubhub-waives-delivery-service-fees-orders-over-50/"
+    },
+    {
+      "id": 46,
+      "slug": "firefox-will-soon-let-you-block-all-of-its-generative-ai-features",
+      "title": "Firefox will soon let you block all of its generative AI features",
+      "description": "Imported from RSS feed: Firefox will soon let you block all of its generative AI features",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Firefox will soon let you block all of its generative AI features",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Firefox will soon let you block all of its generative AI features",
+        "metaDescription": "Firefox will soon let you block all of its generative AI features",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/firefox-will-soon-let-you-block-all-of-its-generative-ai-features/"
+    },
+    {
+      "id": 45,
+      "slug": "what-snowflake-s-deal-with-openai-tells-us-about-the-enterprise-ai-race",
+      "title": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+      "description": "Imported from RSS feed: What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+        "metaDescription": "What Snowflake’s deal with OpenAI tells us about the enterprise AI race",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/what-snowflakes-deal-with-openai-tells-us-about-the-enterprise-ai-race/"
+    },
+    {
+      "id": 44,
+      "slug": "two-stanford-students-launch-2m-startup-accelerator-for-students-nationwide",
+      "title": "Two Stanford students launch $2M startup accelerator for students nationwide",
+      "description": "Imported from RSS feed: Two Stanford students launch $2M startup accelerator for students nationwide",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Two Stanford students launch $2M startup accelerator for students nationwide",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Two Stanford students launch $2M startup accelerator for students nationwide",
+        "metaDescription": "Two Stanford students launch $2M startup accelerator for students nationwide",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/two-stanford-students-launch-2m-startup-accelerator-for-students-nationwide/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/two-stanford-students-launch-2m-startup-accelerator-for-students-nationwide/"
+    },
+    {
+      "id": 43,
+      "slug": "adobe-animate-is-shutting-down-as-company-focuses-on-ai",
+      "title": "Adobe Animate is shutting down as company focuses on AI",
+      "description": "Imported from RSS feed: Adobe Animate is shutting down as company focuses on AI",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Adobe Animate is shutting down as company focuses on AI",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Adobe Animate is shutting down as company focuses on AI",
+        "metaDescription": "Adobe Animate is shutting down as company focuses on AI",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/adobe-animate-is-shutting-down-as-company-focuses-on-ai/"
+    },
+    {
+      "id": 42,
+      "slug": "china-is-leading-the-fight-against-hidden-car-door-handles",
+      "title": "China is leading the fight against hidden car door handles",
+      "description": "Imported from RSS feed: China is leading the fight against hidden car door handles",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "China is leading the fight against hidden car door handles",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "China is leading the fight against hidden car door handles",
+        "metaDescription": "China is leading the fight against hidden car door handles",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/china-is-leading-the-fight-against-hidden-car-door-handles/"
+    },
+    {
+      "id": 41,
+      "slug": "elon-musk-s-spacex-officially-acquires-elon-musk-s-xai-with-plan-to-build-data-centers-in-space",
+      "title": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+      "description": "Imported from RSS feed: Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+        "metaDescription": "Elon Musk’s SpaceX officially acquires Elon Musk’s xAI, with plan to build data centers in space",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/elon-musk-spacex-acquires-xai-data-centers-space-merger/"
+    },
+    {
+      "id": 40,
+      "slug": "waymo-raises-16b-to-scale-robotaxi-fleet-internationally",
+      "title": "Waymo raises $16B to scale robotaxi fleet internationally",
+      "description": "Imported from RSS feed: Waymo raises $16B to scale robotaxi fleet internationally",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Waymo raises $16B to scale robotaxi fleet internationally",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Waymo raises $16B to scale robotaxi fleet internationally",
+        "metaDescription": "Waymo raises $16B to scale robotaxi fleet internationally",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/waymo-raises-16-billion-round-to-scale-robotaxi-fleet-london-tokyo/"
+    },
+    {
+      "id": 39,
+      "slug": "fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud",
+      "title": "Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+      "description": "Imported from RSS feed: Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-03",
+      "lastModified": "2026-02-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+        "metaDescription": "Fintech CEO and Forbes 30 Under 30 alum has been charged for alleged fraud",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/02/fintech-ceo-and-forbes-30-under-30-alum-has-been-charged-for-alleged-fraud/"
+    },
+    {
       "id": 38,
       "slug": "meet-the-new-european-unicorns-of-2026",
       "title": "Meet the new European unicorns of 2026",
