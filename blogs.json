@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 148,
+      "slug": "a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup",
+      "title": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+      "description": "Imported from RSS feed: A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+        "metaDescription": "A Stanford grad student created an algorithm to help his classmates find love; now, Date Drop is the basis of his new startup",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/a-stanford-grad-student-created-an-algorithm-to-help-his-classmates-find-love-now-date-drop-is-the-basis-of-his-new-startup/"
+    },
+    {
+      "id": 147,
+      "slug": "roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability",
+      "title": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+      "description": "Imported from RSS feed: Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+        "metaDescription": "Roku to launch streaming bundles as part of its efforts to continue growing its profitability",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/roku-to-launch-streaming-bundles-as-part-of-its-efforts-to-continue-growing-its-profitability/"
+    },
+    {
+      "id": 146,
+      "slug": "anthropic-s-super-bowl-ads-mocking-ai-with-ads-helped-push-claude-s-app-into-the-top-10",
+      "title": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+      "description": "Imported from RSS feed: Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+        "metaDescription": "Anthropic’s Super Bowl ads mocking AI with ads helped push Claude’s app into the top 10",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/anthropics-super-bowl-ads-mocking-ai-with-ads-helped-push-claudes-app-into-the-top-10/"
+    },
+    {
+      "id": 145,
+      "slug": "india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans",
+      "title": "India partners with Alibaba.com for export push despite past China tech bans",
+      "description": "Imported from RSS feed: India partners with Alibaba.com for export push despite past China tech bans",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "India partners with Alibaba.com for export push despite past China tech bans",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "India partners with Alibaba.com for export push despite past China tech bans",
+        "metaDescription": "India partners with Alibaba.com for export push despite past China tech bans",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/india-partners-with-alibaba-com-for-export-push-despite-past-china-tech-bans/"
+    },
+    {
+      "id": 144,
+      "slug": "the-sec-closed-its-investigation-into-fisker",
+      "title": "The SEC closed its investigation into Fisker",
+      "description": "Imported from RSS feed: The SEC closed its investigation into Fisker",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "The SEC closed its investigation into Fisker",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "The SEC closed its investigation into Fisker",
+        "metaDescription": "The SEC closed its investigation into Fisker",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/the-sec-closed-its-investigation-into-fisker/"
+    },
+    {
+      "id": 143,
+      "slug": "openai-removes-access-to-sycophancy-prone-gpt-4o-model",
+      "title": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "description": "Imported from RSS feed: OpenAI removes access to sycophancy-prone GPT-4o model",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "OpenAI removes access to sycophancy-prone GPT-4o model",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "OpenAI removes access to sycophancy-prone GPT-4o model",
+        "metaDescription": "OpenAI removes access to sycophancy-prone GPT-4o model",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/openai-removes-access-to-sycophancy-prone-gpt-4o-model/"
+    },
+    {
+      "id": 142,
+      "slug": "sex-toys-maker-tenga-says-hacker-stole-customer-information",
+      "title": "Sex toys maker Tenga says hacker stole customer information",
+      "description": "Imported from RSS feed: Sex toys maker Tenga says hacker stole customer information",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Sex toys maker Tenga says hacker stole customer information",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Sex toys maker Tenga says hacker stole customer information",
+        "metaDescription": "Sex toys maker Tenga says hacker stole customer information",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/sex-toys-maker-tenga-says-hacker-stole-customer-information/"
+    },
+    {
+      "id": 141,
+      "slug": "why-top-talent-is-walking-away-from-openai-and-xai",
+      "title": "Why top talent is walking away from OpenAI and xAI",
+      "description": "Imported from RSS feed: Why top talent is walking away from OpenAI and xAI",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Why top talent is walking away from OpenAI and xAI",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Why top talent is walking away from OpenAI and xAI",
+        "metaDescription": "Why top talent is walking away from OpenAI and xAI",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/"
+      },
+      "externalUrl": "https://techcrunch.com/video/why-top-talent-is-walking-away-from-openai-and-xai/"
+    },
+    {
+      "id": 140,
+      "slug": "fintech-lending-giant-figure-confirms-data-breach",
+      "title": "Fintech lending giant Figure confirms data breach",
+      "description": "Imported from RSS feed: Fintech lending giant Figure confirms data breach",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Fintech lending giant Figure confirms data breach",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Fintech lending giant Figure confirms data breach",
+        "metaDescription": "Fintech lending giant Figure confirms data breach",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/fintech-lending-giant-figure-confirms-data-breach/"
+    },
+    {
+      "id": 139,
+      "slug": "airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-us-and-canada",
+      "title": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "description": "Imported from RSS feed: Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-14",
+      "lastModified": "2026-02-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+        "metaDescription": "Airbnb says a third of its customer support is now handled by AI in the US and Canada",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/13/airbnb-says-a-third-of-its-customer-support-is-now-handled-by-ai-in-the-u-s-and-canada/"
+    },
+    {
       "id": 138,
       "slug": "trump-administration-undermines-epa-enforcement-of-clean-air-act",
       "title": "Trump administration undermines EPA enforcement of Clean Air Act",
