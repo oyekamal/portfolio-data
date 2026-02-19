@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 194,
+      "slug": "google-debuts-499-pixel-10a",
+      "title": "Google debuts $499 Pixel 10a",
+      "description": "Imported from RSS feed: Google debuts $499 Pixel 10a",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Google debuts $499 Pixel 10a",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Google debuts $499 Pixel 10a",
+        "metaDescription": "Google debuts $499 Pixel 10a",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/google-debuts-499-pixel-10a/"
+    },
+    {
+      "id": 193,
+      "slug": "world-labs-lands-1b-with-200m-from-autodesk-to-bring-world-models-into-3d-workflows",
+      "title": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+      "description": "Imported from RSS feed: World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+        "metaDescription": "World Labs lands $1B, with $200M from Autodesk, to bring world models into 3D workflows",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/world-labs-lands-200m-from-autodesk-to-bring-world-models-into-3d-workflows/"
+    },
+    {
+      "id": 192,
+      "slug": "data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers",
+      "title": "Data breach at fintech giant Figure affects close to a million customers",
+      "description": "Imported from RSS feed: Data breach at fintech giant Figure affects close to a million customers",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Data breach at fintech giant Figure affects close to a million customers",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Data breach at fintech giant Figure affects close to a million customers",
+        "metaDescription": "Data breach at fintech giant Figure affects close to a million customers",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/data-breach-at-fintech-giant-figure-affects-close-to-a-million-customers/"
+    },
+    {
+      "id": 191,
+      "slug": "mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features",
+      "title": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
+      "description": "Imported from RSS feed: Mastodon, a decentralized alternative to X, plans to target creators with new features",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
+        "metaDescription": "Mastodon, a decentralized alternative to X, plans to target creators with new features",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/mastodon-a-decentralized-alternative-to-x-plans-to-target-creators-with-new-features/"
+    },
+    {
+      "id": 190,
+      "slug": "amazon-halts-blue-jay-robotics-project-after-less-than-6-months",
+      "title": "Amazon halts Blue Jay robotics project after less than 6 months",
+      "description": "Imported from RSS feed: Amazon halts Blue Jay robotics project after less than 6 months",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Amazon halts Blue Jay robotics project after less than 6 months",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Amazon halts Blue Jay robotics project after less than 6 months",
+        "metaDescription": "Amazon halts Blue Jay robotics project after less than 6 months",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/amazon-halts-blue-jay-robotics-project-after-less-than-six-months/"
+    },
+    {
+      "id": 189,
+      "slug": "seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform",
+      "title": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+      "description": "Imported from RSS feed: SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+        "metaDescription": "SeatGeek and Spotify team up to offer concert ticket sales inside the music platform",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/seatgeek-and-spotify-team-up-to-offer-concert-ticket-sales-inside-the-music-platform/"
+    },
+    {
+      "id": 188,
+      "slug": "a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-bluesky-s-app",
+      "title": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+      "description": "Imported from RSS feed: A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+        "metaDescription": "A startup called Germ becomes the first private messenger that launches directly from Bluesky’s app",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/a-startup-called-germ-becomes-the-first-private-messenger-that-launches-directly-from-blueskys-app/"
+    },
+    {
+      "id": 187,
+      "slug": "is-your-startup-s-check-engine-light-on-google-cloud-s-vp-explains-what-to-do",
+      "title": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "description": "Imported from RSS feed: Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+        "metaDescription": "Is your startup’s check engine light on? Google Cloud’s VP explains what to do",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/"
+      },
+      "externalUrl": "https://techcrunch.com/video/is-your-startups-check-engine-light-on-google-clouds-vp-explains-what-to-do/"
+    },
+    {
+      "id": 186,
+      "slug": "hacking-conference-def-con-bans-three-people-linked-to-epstein",
+      "title": "Hacking conference Def Con bans three people linked to Epstein",
+      "description": "Imported from RSS feed: Hacking conference Def Con bans three people linked to Epstein",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Hacking conference Def Con bans three people linked to Epstein",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Hacking conference Def Con bans three people linked to Epstein",
+        "metaDescription": "Hacking conference Def Con bans three people linked to Epstein",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/hacking-conference-def-con-bans-three-people-linked-to-epstein/"
+    },
+    {
+      "id": 185,
+      "slug": "etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b",
+      "title": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+      "description": "Imported from RSS feed: Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-02-19",
+      "lastModified": "2026-02-19",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+        "metaDescription": "Etsy sells secondhand clothing marketplace Depop to eBay for $1.2B",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/02/18/etsy-sells-secondhand-clothing-marketplace-depop-to-ebay-for-1-2b/"
+    },
+    {
       "id": 184,
       "slug": "spacex-vets-raise-50m-series-a-for-data-center-links",
       "title": "SpaceX vets raise $50M Series A for data center links",
