@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 308,
+      "slug": "tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk",
+      "title": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "description": "Imported from RSS feed: Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+        "metaDescription": "Tech workers urge DOD, Congress to withdraw Anthropic label as a supply-chain risk",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/tech-workers-urge-dod-congress-to-withdraw-anthropic-label-as-a-supply-chain-risk/"
+    },
+    {
+      "id": 307,
+      "slug": "paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes",
+      "title": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+      "description": "Imported from RSS feed: Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+        "metaDescription": "Paramount+ and HBO Max to merge into one streaming service after WBD deal closes",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/paramount-and-hbo-max-to-merge-into-one-streaming-service-after-wbd-deal-closes/"
+    },
+    {
+      "id": 306,
+      "slug": "users-are-ditching-chatgpt-for-claude-here-s-how-to-make-the-switch",
+      "title": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+      "description": "Imported from RSS feed: Users are ditching ChatGPT for Claude — here’s how to make the switch",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+        "metaDescription": "Users are ditching ChatGPT for Claude — here’s how to make the switch",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/users-are-ditching-chatgpt-for-claude-heres-how-to-make-the-switch/"
+    },
+    {
+      "id": 305,
+      "slug": "instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue",
+      "title": "Instagram tracked growing usage while targeting teens, lawyers argue",
+      "description": "Imported from RSS feed: Instagram tracked growing usage while targeting teens, lawyers argue",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Instagram tracked growing usage while targeting teens, lawyers argue",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Instagram tracked growing usage while targeting teens, lawyers argue",
+        "metaDescription": "Instagram tracked growing usage while targeting teens, lawyers argue",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/instagram-tracked-growing-usage-while-targeting-teens-lawyers-argue/"
+    },
+    {
+      "id": 304,
+      "slug": "a-new-app-alerts-you-if-someone-nearby-is-wearing-smart-glasses",
+      "title": "A new app alerts you if someone nearby is wearing smart glasses",
+      "description": "Imported from RSS feed: A new app alerts you if someone nearby is wearing smart glasses",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "A new app alerts you if someone nearby is wearing smart glasses",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "A new app alerts you if someone nearby is wearing smart glasses",
+        "metaDescription": "A new app alerts you if someone nearby is wearing smart glasses",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/nearby-glasses-new-app-alerts-you-wearing-smart-glasses-surveillance-meta-snap-bluetooth/"
+    },
+    {
+      "id": 303,
+      "slug": "no-one-has-a-good-plan-for-how-ai-companies-should-work-with-the-government",
+      "title": "No one has a good plan for how AI companies should work with the government",
+      "description": "Imported from RSS feed: No one has a good plan for how AI companies should work with the government",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "No one has a good plan for how AI companies should work with the government",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "No one has a good plan for how AI companies should work with the government",
+        "metaDescription": "No one has a good plan for how AI companies should work with the government",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/openai-anthropic-department-of-defense-war-hegseth-ai-companies-work-with-us-government/"
+    },
+    {
+      "id": 302,
+      "slug": "geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay",
+      "title": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "description": "Imported from RSS feed: Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+        "metaDescription": "Geopolitical drama reportedly stalls IPO of SoftBank-backed PayPay",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/geopolitical-drama-reportedly-stalls-ipo-of-softbank-backed-paypay/"
+    },
+    {
+      "id": 301,
+      "slug": "stripe-wants-to-turn-your-ai-costs-into-a-profit-center",
+      "title": "Stripe wants to turn your AI costs into a profit center",
+      "description": "Imported from RSS feed: Stripe wants to turn your AI costs into a profit center",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Stripe wants to turn your AI costs into a profit center",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Stripe wants to turn your AI costs into a profit center",
+        "metaDescription": "Stripe wants to turn your AI costs into a profit center",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/stripe-wants-to-turn-your-ai-costs-into-a-profit-center/"
+    },
+    {
+      "id": 300,
+      "slug": "chatgpt-uninstalls-surged-by-295-after-dod-deal",
+      "title": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "description": "Imported from RSS feed: ChatGPT uninstalls surged by 295% after DoD deal",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "ChatGPT uninstalls surged by 295% after DoD deal",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "ChatGPT uninstalls surged by 295% after DoD deal",
+        "metaDescription": "ChatGPT uninstalls surged by 295% after DoD deal",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/chatgpt-uninstalls-surged-by-295-after-dod-deal/"
+    },
+    {
+      "id": 299,
+      "slug": "india-s-pronto-formalizes-house-help-as-its-valuation-jumps-8-in-under-a-year",
+      "title": "India’s Pronto formalizes house help as its valuation jumps 8× in under a year",
+      "description": "Imported from RSS feed: India’s Pronto formalizes house help as its valuation jumps 8× in under a year",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "India’s Pronto formalizes house help as its valuation jumps 8× in under a year",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-03",
+      "lastModified": "2026-03-03",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "India’s Pronto formalizes house help as its valuation jumps 8× in under a year",
+        "metaDescription": "India’s Pronto formalizes house help as its valuation jumps 8× in under a year",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/02/indias-pronto-formalizes-house-help-as-its-valuation-jumps-8x-in-under-a-year/"
+    },
+    {
       "id": 298,
       "slug": "saas-in-saas-out-here-s-what-s-driving-the-saaspocalypse",
       "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
