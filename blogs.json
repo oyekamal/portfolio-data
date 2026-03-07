@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 348,
+      "slug": "india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade",
+      "title": "India PC shipments surpass pandemic peak as first-time users upgrade",
+      "description": "Imported from RSS feed: India PC shipments surpass pandemic peak as first-time users upgrade",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "India PC shipments surpass pandemic peak as first-time users upgrade",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "India PC shipments surpass pandemic peak as first-time users upgrade",
+        "metaDescription": "India PC shipments surpass pandemic peak as first-time users upgrade",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/india-pc-shipments-surpass-pandemic-peak-as-first-time-users-upgrade/"
+    },
+    {
+      "id": 347,
+      "slug": "claude-s-consumer-growth-surge-continues-after-pentagon-deal-debacle",
+      "title": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "description": "Imported from RSS feed: Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+        "metaDescription": "Claude’s consumer growth surge continues after Pentagon deal debacle",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/claudes-consumer-growth-surge-continues-after-pentagon-deal-debacle/"
+    },
+    {
+      "id": 346,
+      "slug": "anthropic-s-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts",
+      "title": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "description": "Imported from RSS feed: Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+        "metaDescription": "Anthropic’s Pentagon deal is a cautionary tale for startups chasing federal contracts",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/"
+      },
+      "externalUrl": "https://techcrunch.com/video/anthropics-pentagon-deal-is-a-cautionary-tale-for-startups-chasing-federal-contracts/"
+    },
+    {
+      "id": 345,
+      "slug": "anthropic-s-claude-found-22-vulnerabilities-in-firefox-over-two-weeks",
+      "title": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "description": "Imported from RSS feed: Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+        "metaDescription": "Anthropic’s Claude found 22 vulnerabilities in Firefox over two weeks",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/anthropics-claude-found-22-vulnerabilities-in-firefox-over-two-weeks/"
+    },
+    {
+      "id": 344,
+      "slug": "bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor",
+      "title": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+      "description": "Imported from RSS feed: Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+        "metaDescription": "Bill Gates’ TerraPower gets approval to build new nuclear reactor",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/bill-gates-terrapower-gets-approval-to-build-new-nuclear-reactor/"
+    },
+    {
+      "id": 343,
+      "slug": "microsoft-google-amazon-say-anthropic-claude-remains-available-to-non-defense-customers",
+      "title": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "description": "Imported from RSS feed: Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+        "metaDescription": "Microsoft, Google, Amazon say Anthropic Claude remains available to non-defense customers",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/microsoft-anthropic-claude-remains-available-to-customers-except-the-defense-department/"
+    },
+    {
+      "id": 342,
+      "slug": "osha-probing-fatality-at-rivian-warehouse",
+      "title": "OSHA probing fatality at Rivian warehouse",
+      "description": "Imported from RSS feed: OSHA probing fatality at Rivian warehouse",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "OSHA probing fatality at Rivian warehouse",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "OSHA probing fatality at Rivian warehouse",
+        "metaDescription": "OSHA probing fatality at Rivian warehouse",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/osha-probing-fatality-at-rivian-warehouse/"
+    },
+    {
+      "id": 341,
+      "slug": "life-ev-officially-owns-rad-power-bikes-now",
+      "title": "Life EV officially owns Rad Power Bikes now",
+      "description": "Imported from RSS feed: Life EV officially owns Rad Power Bikes now",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Life EV officially owns Rad Power Bikes now",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Life EV officially owns Rad Power Bikes now",
+        "metaDescription": "Life EV officially owns Rad Power Bikes now",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/life-ev-officially-owns-rad-power-bikes-now/"
+    },
+    {
+      "id": 340,
+      "slug": "nintendo-sues-the-us-government-for-a-refund-on-tariffs",
+      "title": "Nintendo sues the US government for a refund on tariffs",
+      "description": "Imported from RSS feed: Nintendo sues the US government for a refund on tariffs",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Nintendo sues the US government for a refund on tariffs",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Nintendo sues the US government for a refund on tariffs",
+        "metaDescription": "Nintendo sues the US government for a refund on tariffs",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/nintendo-sues-the-u-s-government-for-a-refund-on-tariffs/"
+    },
+    {
+      "id": 339,
+      "slug": "x-is-testing-a-new-ad-format-that-connects-posts-with-products",
+      "title": "X is testing a new ad format that connects posts with products",
+      "description": "Imported from RSS feed: X is testing a new ad format that connects posts with products",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "X is testing a new ad format that connects posts with products",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-07",
+      "lastModified": "2026-03-07",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "X is testing a new ad format that connects posts with products",
+        "metaDescription": "X is testing a new ad format that connects posts with products",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/06/x-is-testing-a-new-ad-format-that-connects-posts-with-products/"
+    },
+    {
       "id": 338,
       "slug": "x-revamps-creator-subscriptions-with-new-features-like-exclusive-threads-and-shareable-cards",
       "title": "X revamps Creator Subscriptions with new features, like exclusive threads and shareable cards",
