@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 410,
+      "slug": "spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations",
+      "title": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "description": "Imported from RSS feed: Spotify will let you edit your Taste Profile to control your recommendations",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Spotify will let you edit your Taste Profile to control your recommendations",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Spotify will let you edit your Taste Profile to control your recommendations",
+        "metaDescription": "Spotify will let you edit your Taste Profile to control your recommendations",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations/"
+    },
+    {
+      "id": 409,
+      "slug": "the-wild-six-weeks-for-nanoclaw-s-creator-that-led-to-a-deal-with-docker",
+      "title": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "description": "Imported from RSS feed: The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+        "metaDescription": "The wild six weeks for NanoClaw’s creator that led to a deal with Docker",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/the-wild-six-weeks-for-nanoclaws-creator-that-led-to-a-deal-with-docker/"
+    },
+    {
+      "id": 408,
+      "slug": "travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics",
+      "title": "Travis Kalanick launches a new company called Atoms focused on robotics",
+      "description": "Imported from RSS feed: Travis Kalanick launches a new company called Atoms focused on robotics",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Travis Kalanick launches a new company called Atoms focused on robotics",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Travis Kalanick launches a new company called Atoms focused on robotics",
+        "metaDescription": "Travis Kalanick launches a new company called Atoms focused on robotics",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/travis-kalanick-launches-a-new-company-called-atoms-focused-on-robotics/"
+    },
+    {
+      "id": 407,
+      "slug": "the-biggest-ai-stories-of-the-year-lpar-so-far-rpar",
+      "title": "The biggest AI stories of the year &lpar;so far&rpar;",
+      "description": "Imported from RSS feed: The biggest AI stories of the year &lpar;so far&rpar;",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "The biggest AI stories of the year &lpar;so far&rpar;",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "The biggest AI stories of the year &lpar;so far&rpar;",
+        "metaDescription": "The biggest AI stories of the year &lpar;so far&rpar;",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/the-biggest-ai-stories-of-the-year-so-far/"
+    },
+    {
+      "id": 406,
+      "slug": "steven-spielberg-says-he-s-never-used-ai-in-any-of-his-films",
+      "title": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "description": "Imported from RSS feed: Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+        "metaDescription": "Steven Spielberg says he’s ‘never used AI’ in any of his films",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/steven-spielberg-says-hes-never-used-ai-in-any-of-his-films/"
+    },
+    {
+      "id": 405,
+      "slug": "facebook-makes-it-easier-for-creators-to-report-impersonators",
+      "title": "Facebook makes it easier for creators to report impersonators",
+      "description": "Imported from RSS feed: Facebook makes it easier for creators to report impersonators",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Facebook makes it easier for creators to report impersonators",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Facebook makes it easier for creators to report impersonators",
+        "metaDescription": "Facebook makes it easier for creators to report impersonators",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/facebook-makes-it-easier-for-creators-to-report-impersonators/"
+    },
+    {
+      "id": 404,
+      "slug": "nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-they-re-missing",
+      "title": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "description": "Imported from RSS feed: Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+        "metaDescription": "Nyne, founded by a father-son duo, gives AI agents the human context they’re missing",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/nyne-founded-by-a-father-son-duo-gives-ai-agents-the-human-context-theyre-missing/"
+    },
+    {
+      "id": 403,
+      "slug": "digg-lays-off-staff-and-shuts-down-app-as-company-retools",
+      "title": "Digg lays off staff and shuts down app as company retools",
+      "description": "Imported from RSS feed: Digg lays off staff and shuts down app as company retools",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Digg lays off staff and shuts down app as company retools",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Digg lays off staff and shuts down app as company retools",
+        "metaDescription": "Digg lays off staff and shuts down app as company retools",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/digg-lays-off-staff-and-shuts-down-app-as-company-retools/"
+    },
+    {
+      "id": 402,
+      "slug": "lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks",
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "description": "Imported from RSS feed: Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "metaDescription": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/"
+    },
+    {
+      "id": 401,
+      "slug": "not-built-right-the-first-time-musk-s-xai-is-starting-over-again-again",
+      "title": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "description": "Imported from RSS feed: ‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-14",
+      "lastModified": "2026-03-14",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+        "metaDescription": "‘Not built right the first time’ — Musk’s xAI is starting over again, again",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/13/not-built-right-the-first-time-musks-xai-is-starting-over-again-again/"
+    },
+    {
       "id": 400,
       "slug": "humanoid-robotics-maker-sunday-reaches-1-15b-valuation-to-build-household-robots",
       "title": "Humanoid robotics maker Sunday reaches $1.15B valuation to build household robots",
