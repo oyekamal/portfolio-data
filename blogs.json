@@ -1,6 +1,222 @@
 {
   "blogs": [
     {
+      "id": 416,
+      "slug": "how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others",
+      "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "description": "Imported from RSS feed: How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-15",
+      "lastModified": "2026-03-15",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+        "metaDescription": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/14/how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others/"
+    },
+    {
+      "id": 415,
+      "slug": "as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help",
+      "title": "As people look for ways to make new friends, here are the apps promising to help",
+      "description": "Imported from RSS feed: As people look for ways to make new friends, here are the apps promising to help",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "As people look for ways to make new friends, here are the apps promising to help",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-15",
+      "lastModified": "2026-03-15",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "As people look for ways to make new friends, here are the apps promising to help",
+        "metaDescription": "As people look for ways to make new friends, here are the apps promising to help",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/14/as-people-look-for-ways-to-make-new-friends-here-are-the-apps-promising-to-help/"
+    },
+    {
+      "id": 414,
+      "slug": "meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company",
+      "title": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "description": "Imported from RSS feed: Meta reportedly considering layoffs that could affect 20% of the company",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Meta reportedly considering layoffs that could affect 20% of the company",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-15",
+      "lastModified": "2026-03-15",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Meta reportedly considering layoffs that could affect 20% of the company",
+        "metaDescription": "Meta reportedly considering layoffs that could affect 20% of the company",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/14/meta-reportedly-considering-layoffs-that-could-affect-20-of-the-company/"
+    },
+    {
+      "id": 413,
+      "slug": "honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future",
+      "title": "Honda is killing its EVs — and any chance of competing in the future",
+      "description": "Imported from RSS feed: Honda is killing its EVs — and any chance of competing in the future",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Honda is killing its EVs — and any chance of competing in the future",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-15",
+      "lastModified": "2026-03-15",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Honda is killing its EVs — and any chance of competing in the future",
+        "metaDescription": "Honda is killing its EVs — and any chance of competing in the future",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/14/honda-is-killing-its-evs-and-any-chance-of-competing-in-the-future/"
+    },
+    {
+      "id": 412,
+      "slug": "us-army-announces-contract-with-anduril-worth-up-to-20b",
+      "title": "US Army announces contract with Anduril worth up to $20B",
+      "description": "Imported from RSS feed: US Army announces contract with Anduril worth up to $20B",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "US Army announces contract with Anduril worth up to $20B",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-15",
+      "lastModified": "2026-03-15",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "US Army announces contract with Anduril worth up to $20B",
+        "metaDescription": "US Army announces contract with Anduril worth up to $20B",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/14/us-army-announces-contract-with-anduril-worth-up-to-20b/"
+    },
+    {
+      "id": 411,
+      "slug": "the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit",
+      "title": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "description": "Imported from RSS feed: The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-15",
+      "lastModified": "2026-03-15",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+        "metaDescription": "The MacBook Neo is ‘the most repairable MacBook’ in years, according to iFixit",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/14/the-macbook-neo-is-the-most-repairable-macbook-in-years-according-to-ifixit/"
+    },
+    {
       "id": 410,
       "slug": "spotify-will-let-you-edit-your-taste-profile-to-control-your-recommendations",
       "title": "Spotify will let you edit your Taste Profile to control your recommendations",
