@@ -1,6 +1,222 @@
 {
   "blogs": [
     {
+      "id": 422,
+      "slug": "rivian-s-rj-scaringe-thinks-we-re-doing-robots-all-wrong",
+      "title": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "description": "Imported from RSS feed: Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-16",
+      "lastModified": "2026-03-16",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+        "metaDescription": "Rivian’s RJ Scaringe thinks we’re doing robots all wrong",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/"
+    },
+    {
+      "id": 421,
+      "slug": "wiz-investor-unpacks-google-s-32b-acquisition",
+      "title": "Wiz investor unpacks Google’s $32B acquisition",
+      "description": "Imported from RSS feed: Wiz investor unpacks Google’s $32B acquisition",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Wiz investor unpacks Google’s $32B acquisition",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-16",
+      "lastModified": "2026-03-16",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Wiz investor unpacks Google’s $32B acquisition",
+        "metaDescription": "Wiz investor unpacks Google’s $32B acquisition",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/"
+    },
+    {
+      "id": 420,
+      "slug": "techcrunch-mobility-travis-kalanick-s-return-proves-it-really-is-2016-again",
+      "title": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "description": "Imported from RSS feed: TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-16",
+      "lastModified": "2026-03-16",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+        "metaDescription": "TechCrunch Mobility: Travis Kalanick’s return proves it really is 2016 again",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/"
+    },
+    {
+      "id": 419,
+      "slug": "unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-india-s-edtech-sector-consolidates",
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "description": "Imported from RSS feed: Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-16",
+      "lastModified": "2026-03-16",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+        "metaDescription": "Unacademy to be acquired by upGrad in share-swap deal as India’s edtech sector consolidates",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/"
+    },
+    {
+      "id": 418,
+      "slug": "bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator",
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "description": "Imported from RSS feed: ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-16",
+      "lastModified": "2026-03-16",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+        "metaDescription": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/"
+    },
+    {
+      "id": 417,
+      "slug": "google-accel-india-accelerator-choses-5-startups-and-none-are-ai-wrappers",
+      "title": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+      "description": "Imported from RSS feed: Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-16",
+      "lastModified": "2026-03-16",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+        "metaDescription": "Google, Accel India accelerator choses 5 startups and none are ‘AI wrappers’",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/"
+    },
+    {
       "id": 416,
       "slug": "how-to-use-the-new-chatgpt-app-integrations-including-doordash-spotify-uber-and-others",
       "title": "How to use the new ChatGPT app integrations, including DoorDash, Spotify, Uber, and others",
