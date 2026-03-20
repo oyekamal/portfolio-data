@@ -1,6 +1,366 @@
 {
   "blogs": [
     {
+      "id": 461,
+      "slug": "doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai",
+      "title": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "description": "Imported from RSS feed: DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+        "metaDescription": "DoorDash launches a new ‘Tasks’ app that pays couriers to submit videos to train AI",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/doordash-launches-a-new-tasks-app-that-pays-couriers-to-submit-videos-to-train-ai/"
+    },
+    {
+      "id": 460,
+      "slug": "google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams",
+      "title": "Google introduces a new way for users to sideload Android apps that still protects against scams",
+      "description": "Imported from RSS feed: Google introduces a new way for users to sideload Android apps that still protects against scams",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Google introduces a new way for users to sideload Android apps that still protects against scams",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Google introduces a new way for users to sideload Android apps that still protects against scams",
+        "metaDescription": "Google introduces a new way for users to sideload Android apps that still protects against scams",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/google-introduces-a-new-way-for-users-to-sideload-android-apps-that-still-protects-against-scams/"
+    },
+    {
+      "id": 459,
+      "slug": "meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors",
+      "title": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "description": "Imported from RSS feed: Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+        "metaDescription": "Meta rolls out new AI content enforcement systems while reducing reliance on third-party vendors",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/meta-rolls-out-new-ai-content-enforcement-systems-while-reducing-reliance-on-third-party-vendors/"
+    },
+    {
+      "id": 458,
+      "slug": "geothermal-startup-fervo-catapults-itself-over-the-valley-of-death",
+      "title": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
+      "description": "Imported from RSS feed: Geothermal startup Fervo catapults itself over the ‘valley of death’",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
+        "metaDescription": "Geothermal startup Fervo catapults itself over the ‘valley of death’",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/geothermal-startup-fervo-catapults-itself-over-the-valley-of-death/"
+    },
+    {
+      "id": 457,
+      "slug": "bluesky-announces-100m-series-b-after-ceo-transition",
+      "title": "Bluesky announces $100M Series B after CEO transition",
+      "description": "Imported from RSS feed: Bluesky announces $100M Series B after CEO transition",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Bluesky announces $100M Series B after CEO transition",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Bluesky announces $100M Series B after CEO transition",
+        "metaDescription": "Bluesky announces $100M Series B after CEO transition",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/bluesky-announces-100m-series-b-after-ceo-transition/"
+    },
+    {
+      "id": 456,
+      "slug": "online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says",
+      "title": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "description": "Imported from RSS feed: Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "metaDescription": "Online bot traffic will exceed human traffic by 2027, Cloudflare CEO says",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/online-bot-traffic-will-exceed-human-traffic-by-2027-cloudflare-ceo-says/"
+    },
+    {
+      "id": 455,
+      "slug": "polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal",
+      "title": "Polymarket continues its partnership spree with a Major League Baseball deal",
+      "description": "Imported from RSS feed: Polymarket continues its partnership spree with a Major League Baseball deal",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Polymarket continues its partnership spree with a Major League Baseball deal",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Polymarket continues its partnership spree with a Major League Baseball deal",
+        "metaDescription": "Polymarket continues its partnership spree with a Major League Baseball deal",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/polymarket-continues-its-partnership-spree-with-a-major-league-baseball-deal/"
+    },
+    {
+      "id": 454,
+      "slug": "employees-had-to-restrain-a-dancing-humanoid-robot-after-it-went-wild-at-a-california-restaurant",
+      "title": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+      "description": "Imported from RSS feed: Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+        "metaDescription": "Employees had to restrain a dancing humanoid robot after it went wild at a California restaurant",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/restaurant-dancing-robot-went-wild-hot-pot-cupertino-haidilao-agibot/"
+    },
+    {
+      "id": 453,
+      "slug": "jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai",
+      "title": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "description": "Imported from RSS feed: Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "metaDescription": "Jeff Bezos reportedly wants $100 billion to buy and transform old manufacturing firms with AI",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/jeff-bezos-reportedly-wants-100-billion-to-buy-and-transform-old-manufacturing-firms-with-ai/"
+    },
+    {
+      "id": 452,
+      "slug": "amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot",
+      "title": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "description": "Imported from RSS feed: Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "content": {
+        "introduction": "This post was imported from an external blog. Read the full article at the link below.",
+        "sections": [],
+        "conclusion": "",
+        "keyTakeaways": []
+      },
+      "excerpt": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+      "author": "Muhammad Kamal",
+      "publishDate": "2026-03-20",
+      "lastModified": "2026-03-20",
+      "readTime": "5 min read",
+      "category": "Technology",
+      "tags": [
+        "External",
+        "Blog"
+      ],
+      "image": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=800&q=80",
+      "featured": false,
+      "views": 0,
+      "seo": {
+        "metaTitle": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+        "metaDescription": "Amazon acquires Rivr, maker of a stair-climbing delivery robot",
+        "keywords": [
+          "blog",
+          "external"
+        ],
+        "ogImage": "https://images.unsplash.com/photo-1499750310107-5fef28a66643?w=1200&q=80",
+        "canonicalUrl": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/"
+      },
+      "externalUrl": "https://techcrunch.com/2026/03/19/amazon-acquires-rivr-maker-of-a-stair-climbing-delivery-robot/"
+    },
+    {
       "id": 451,
       "slug": "apps-to-distract-you-from-the-endless-cycle-of-doomscrolling",
       "title": "Apps to distract you from the endless cycle of doomscrolling",
